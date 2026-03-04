@@ -1,40 +1,33 @@
-name: MK DATEX II Adatgyűjtés
+name: MK DATEX II Adatgyűjtő
 
 on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  gyujtes:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Repo klónozása
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - name: Checkout kód
+        uses: actions/checkout@v3
 
       - name: Python beállítása
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: '3.9'
 
       - name: Függőségek telepítése
-        run: pip install requests pandas lxml openpyxl
+        run: pip install -r requirements.txt
 
-      - name: Adatgyűjtés futtatása
-        run: python mk_datex_gyujto.py
+      - name: Adatgyűjtő futtatása
+        run: python scraper.py
 
-      - name: Változások commitálása és pusholása
+      - name: Változások mentése a GitHubra
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add Data.xlsx data.json MK_adat_elemzes/ || true
-          git diff --cached --quiet && echo "Nincs változás, push kihagyva." || (
-            git commit -m "Automatikus frissítés: $(date +'%Y-%m-%d %H:%M:%S')"
-            git push
-          )
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add Data.xlsx data.json
+          git commit -m "Frissítés: $(date)" || echo "Nincs változás"
+          git push
