@@ -2,7 +2,6 @@ import requests
 import pandas as pd
 import os
 import json
-import copy
 import time
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -25,6 +24,7 @@ COL_ORDER = [
     "overall_start", "overall_end_tervezett",
     "source_name", "road_number",
     "lat_start", "lon_start", "lat_end", "lon_end",
+    "distance_along", "capacity_remaining",
     "comment",
     "statusz", "Rogzites_Ideje", "Lejarva_Ideje", "Korai_lezaras"
 ]
@@ -43,7 +43,6 @@ def _fmt_dt(s):
     return dt.strftime("%Y-%m-%d %H:%M:%S") if dt else s
 
 def fetch_api_data(retries=5, delay=10):
-    """API lekérés, 5x retry 10 másodperc várakozással."""
     headers = {"User-Agent": "Mozilla/5.0", "Accept": "application/xml"}
     for attempt in range(1, retries + 1):
         try:
@@ -73,6 +72,11 @@ def load_json():
 def save_json(records):
     with open(JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(records, f, ensure_ascii=False, indent=2)
+
+def get_local(element, tagname):
+    """Namespace-független keresés local-name() alapján."""
+    res = element.xpath(f".//*[local-name()='{tagname}']")
+    return res[0].text.strip() if res and res[0].text else ""
 
 def parse_xml_to_records(xml_bytes):
     try:
@@ -119,6 +123,8 @@ def parse_xml_to_records(xml_bytes):
             "lon_start":              get_val(rec_el, ".//l:longitude"),
             "lat_end":                "",
             "lon_end":                "",
+            "distance_along":         get_local(rec_el, "distanceAlong"),
+            "capacity_remaining":     get_local(rec_el, "capacityRemaining"),
             "comment":                comment,
         })
 
@@ -131,7 +137,7 @@ def fetch_and_save():
     xml_bytes = fetch_api_data()
     if not xml_bytes:
         print("API nem elérhető 5 próbálkozás után sem. Leállás.")
-        exit(0)  # exit(0) = nem hibás kilépés, git commit kihagyható
+        exit(0)
 
     curr_records = parse_xml_to_records(xml_bytes)
     if not curr_records:
@@ -174,7 +180,7 @@ def fetch_and_save():
     existing_ids = set(df_old["situation_record_id"].astype(str))
     valtozott    = False
 
-    # 1. LEZÁRT: AKTIV volt, de eltűnt az API-ból
+    # 1. LEZÁRT
     for idx, row in df_old.iterrows():
         if row["statusz"] == "AKTIV" and row["situation_record_id"] not in curr_ids:
             print(f"  LEZÁRT: {row['situation_record_id']}")
@@ -182,7 +188,7 @@ def fetch_and_save():
             df_old.at[idx, "Lejarva_Ideje"] = ts
             valtozott = True
 
-    # 2. ÚJ: API-ban van, de Excelben még nincs
+    # 2. ÚJ
     new_ids = curr_ids - existing_ids
     if new_ids:
         df_new = pd.DataFrame([r for r in curr_records if r["situation_record_id"] in new_ids])
