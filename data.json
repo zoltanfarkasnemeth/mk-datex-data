@@ -16,6 +16,8 @@
     "lon_start": "18.875284",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "300.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -35,6 +37,29 @@
     "lon_start": "18.719856",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "300.0",
+    "capacity_remaining": "100.0",
+    "comment": null
+  },
+  {
+    "situation_record_id": "hu_UTINFORM_3133690_1",
+    "rekord_id_rovid": "3133690_1",
+    "situation_id": "hu_UTINFORM_3133690",
+    "record_version": "1",
+    "xsi_type": "Accident",
+    "situation_version_time": "2026-03-04 16:04:10",
+    "creation_time": "2026-03-04 16:04:10",
+    "version_time": "2026-03-04 16:04:10",
+    "overall_start": "2026-03-04 15:55:00",
+    "overall_end_tervezett": "",
+    "source_name": "Magyar Közút",
+    "road_number": "3509",
+    "lat_start": "47.786385",
+    "lon_start": "21.670961",
+    "lat_end": "",
+    "lon_end": "",
+    "distance_along": "960.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -54,6 +79,8 @@
     "lon_start": "20.369925",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "518.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -73,6 +100,8 @@
     "lon_start": "18.019814",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "839.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -92,6 +121,8 @@
     "lon_start": "18.014963",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "695.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -111,6 +142,8 @@
     "lon_start": "18.008923",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "586.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -130,6 +163,8 @@
     "lon_start": "18.473854",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "86.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -149,6 +184,8 @@
     "lon_start": "18.42245",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "988.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -168,6 +205,8 @@
     "lon_start": "17.890005",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "316.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -187,6 +226,8 @@
     "lon_start": "19.682064",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "565.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -206,6 +247,8 @@
     "lon_start": "19.682224",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "10.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -225,6 +268,8 @@
     "lon_start": "17.727272",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "115.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -244,6 +289,8 @@
     "lon_start": "19.141945",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "555.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -263,6 +310,8 @@
     "lon_start": "19.029264",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "14.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -282,6 +331,8 @@
     "lon_start": "19.84095",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "348.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -301,6 +352,8 @@
     "lon_start": "19.776667",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "977.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -320,6 +373,8 @@
     "lon_start": "17.133574",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "700.0",
+    "capacity_remaining": "66.0",
     "comment": null
   },
   {
@@ -339,6 +394,8 @@
     "lon_start": "16.982693",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "500.0",
+    "capacity_remaining": "66.0",
     "comment": null
   },
   {
@@ -358,6 +415,8 @@
     "lon_start": "19.874117",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "135.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -377,6 +436,8 @@
     "lon_start": "18.993443",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "235.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -396,6 +457,8 @@
     "lon_start": "20.683447",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -415,6 +478,8 @@
     "lon_start": "20.641657",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "495.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -434,6 +499,8 @@
     "lon_start": "20.628727",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "934.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -453,6 +520,8 @@
     "lon_start": "18.831736",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -472,6 +541,8 @@
     "lon_start": "18.677876",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "550.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -491,6 +562,8 @@
     "lon_start": "19.048565",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "150.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -510,6 +583,8 @@
     "lon_start": "19.605732",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "500.0",
+    "capacity_remaining": "50.0",
     "comment": "Sávelhúzással a leálló és haladón megy a forgalom."
   },
   {
@@ -529,6 +604,8 @@
     "lon_start": "18.101702",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "905.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -548,6 +625,8 @@
     "lon_start": "18.931196",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "470.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -567,6 +646,8 @@
     "lon_start": "17.610657",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "991.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -586,6 +667,8 @@
     "lon_start": "17.325708",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "833.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -605,6 +688,8 @@
     "lon_start": "17.322577",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "268.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -624,6 +709,8 @@
     "lon_start": "17.280031",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "230.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -643,6 +730,8 @@
     "lon_start": "17.280624",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "2010.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -662,6 +751,8 @@
     "lon_start": "17.269464",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "864.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -681,6 +772,8 @@
     "lon_start": "17.269047",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "104.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -700,6 +793,8 @@
     "lon_start": "17.27181",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "508.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -719,6 +814,8 @@
     "lon_start": "17.271034",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "750.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -738,6 +835,8 @@
     "lon_start": "16.826271",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "180.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -757,6 +856,8 @@
     "lon_start": "17.289415",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "910.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -776,6 +877,8 @@
     "lon_start": "17.289415",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "910.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -795,6 +898,8 @@
     "lon_start": "17.271034",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "750.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -814,6 +919,8 @@
     "lon_start": "17.27181",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "508.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -833,6 +940,8 @@
     "lon_start": "17.269047",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "104.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -852,6 +961,8 @@
     "lon_start": "17.269464",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "864.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -871,6 +982,8 @@
     "lon_start": "17.280624",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "2010.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -890,6 +1003,8 @@
     "lon_start": "17.280031",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "230.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -909,6 +1024,8 @@
     "lon_start": "18.853941",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "25.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -928,6 +1045,8 @@
     "lon_start": "19.112484",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "668.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -947,6 +1066,8 @@
     "lon_start": "18.406916",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -966,6 +1087,8 @@
     "lon_start": "18.231571",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "765.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -985,6 +1108,8 @@
     "lon_start": "18.232943",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -1004,6 +1129,8 @@
     "lon_start": "21.155336",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "400.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -1023,6 +1150,8 @@
     "lon_start": "21.23877",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -1042,6 +1171,8 @@
     "lon_start": "17.888752",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -1061,6 +1192,8 @@
     "lon_start": "17.020227",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "140.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -1080,6 +1213,8 @@
     "lon_start": "17.16397",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -1099,6 +1234,8 @@
     "lon_start": "16.576826",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "440.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1118,6 +1255,8 @@
     "lon_start": "19.291403",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "755.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1137,6 +1276,8 @@
     "lon_start": "16.551447",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "56.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1156,6 +1297,8 @@
     "lon_start": "16.552061",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "571.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1175,6 +1318,8 @@
     "lon_start": "19.22571",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "840.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -1194,6 +1339,8 @@
     "lon_start": "18.255493",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "325.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1213,6 +1360,8 @@
     "lon_start": "19.607876",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "50.0",
+    "capacity_remaining": "50.0",
     "comment": "Sávelhúzással a leálló és haladón megy a forgalom."
   },
   {
@@ -1232,6 +1381,8 @@
     "lon_start": "21.620628",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "554.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -1251,6 +1402,8 @@
     "lon_start": "16.812607",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "781.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1270,6 +1423,8 @@
     "lon_start": "16.795088",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "139.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1289,6 +1444,8 @@
     "lon_start": "16.794233",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "415.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1308,6 +1465,8 @@
     "lon_start": "16.442457",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "9.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1327,6 +1486,8 @@
     "lon_start": "19.461157",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "350.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1346,6 +1507,8 @@
     "lon_start": "17.0924",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "200.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -1365,6 +1528,8 @@
     "lon_start": "19.591543",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "613.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1384,6 +1549,8 @@
     "lon_start": "19.236734",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "200.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1403,6 +1570,8 @@
     "lon_start": "20.106506",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "330.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1422,6 +1591,8 @@
     "lon_start": "17.840885",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "668.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1441,6 +1612,8 @@
     "lon_start": "20.51606",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "49.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1460,6 +1633,8 @@
     "lon_start": "20.513807",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "868.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1479,6 +1654,8 @@
     "lon_start": "16.275223",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "568.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -1498,6 +1675,8 @@
     "lon_start": "16.273746",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1517,6 +1696,8 @@
     "lon_start": "18.54929",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "785.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1536,6 +1717,8 @@
     "lon_start": "17.616558",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "752.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1555,6 +1738,8 @@
     "lon_start": "17.586878",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "643.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1574,6 +1759,8 @@
     "lon_start": "17.526535",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "752.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -1593,6 +1780,8 @@
     "lon_start": "17.819782",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "297.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1612,6 +1801,8 @@
     "lon_start": "19.389277",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "200.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1631,6 +1822,8 @@
     "lon_start": "17.28744",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "340.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1650,6 +1843,8 @@
     "lon_start": "19.648512",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "650.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -1669,6 +1864,8 @@
     "lon_start": "18.913185",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "540.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1688,6 +1885,8 @@
     "lon_start": "19.596052",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "428.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1707,6 +1906,8 @@
     "lon_start": "20.377644",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "220.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -1726,6 +1927,8 @@
     "lon_start": "18.581116",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "900.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -1745,6 +1948,8 @@
     "lon_start": "18.265514",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "144.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1764,6 +1969,8 @@
     "lon_start": "18.261318",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1783,6 +1990,8 @@
     "lon_start": "16.744377",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "90.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1802,6 +2011,8 @@
     "lon_start": "17.142876",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "550.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1821,6 +2032,8 @@
     "lon_start": "17.130722",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "771.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1840,6 +2053,8 @@
     "lon_start": "17.240309",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "200.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1859,6 +2074,8 @@
     "lon_start": "16.688644",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "502.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1878,6 +2095,8 @@
     "lon_start": "19.788174",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "2.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1897,6 +2116,8 @@
     "lon_start": "19.4863",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "606.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -1916,6 +2137,8 @@
     "lon_start": "19.848915",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "154.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -1935,6 +2158,8 @@
     "lon_start": "19.027525",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "808.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1954,6 +2179,8 @@
     "lon_start": "18.184772",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "979.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -1973,6 +2200,8 @@
     "lon_start": "19.068958",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -1992,6 +2221,8 @@
     "lon_start": "19.025324",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "37.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2011,6 +2242,8 @@
     "lon_start": "18.911657",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "50.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2030,6 +2263,8 @@
     "lon_start": "18.911224",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "800.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2049,6 +2284,8 @@
     "lon_start": "18.834492",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "375.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -2068,6 +2305,8 @@
     "lon_start": "18.967613",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "20.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2087,6 +2326,8 @@
     "lon_start": "18.184622",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -2106,6 +2347,8 @@
     "lon_start": "18.213745",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "660.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -2125,6 +2368,8 @@
     "lon_start": "18.552532",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "275.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2144,6 +2389,8 @@
     "lon_start": "20.3397",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2163,6 +2410,8 @@
     "lon_start": "17.244461",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "425.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2182,6 +2431,8 @@
     "lon_start": "17.068106",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "910.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -2201,6 +2452,8 @@
     "lon_start": "17.612743",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "282.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2220,6 +2473,8 @@
     "lon_start": "16.58153",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "30.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2239,6 +2494,8 @@
     "lon_start": "17.527899",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "5.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2258,6 +2515,8 @@
     "lon_start": "18.239172",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "75.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2277,6 +2536,8 @@
     "lon_start": "18.244944",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "60.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2296,6 +2557,8 @@
     "lon_start": "18.1155",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "70.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2315,6 +2578,8 @@
     "lon_start": "18.50099",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "822.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2334,6 +2599,8 @@
     "lon_start": "18.125523",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2353,6 +2620,8 @@
     "lon_start": "18.141916",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "181.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2372,6 +2641,8 @@
     "lon_start": "18.462944",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -2391,6 +2662,8 @@
     "lon_start": "18.461863",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -2410,6 +2683,8 @@
     "lon_start": "19.692907",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "803.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2429,6 +2704,8 @@
     "lon_start": "19.701765",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "965.0",
+    "capacity_remaining": "75.0",
     "comment": "200088080/01\tMK-10792/2/2026\thulladék\tEtes illegális hulladék felszámolása\tVGÜ Nonprofit Kft.\tNagy László, 06-20/519-0075\n"
   },
   {
@@ -2448,6 +2725,8 @@
     "lon_start": "21.116526",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "312.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2467,6 +2746,8 @@
     "lon_start": "19.305706",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "452.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -2486,6 +2767,8 @@
     "lon_start": "19.055012",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "450.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2505,6 +2788,8 @@
     "lon_start": "18.74824",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "140.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2524,6 +2809,8 @@
     "lon_start": "18.624893",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "70.0",
+    "capacity_remaining": "0.0",
     "comment": "Csabdi bekötő út lezárása M1 autópálya szélesítése miatt. A terelőút a 11117 j. út – 103 sz. főút között lévő az M1 autópályával párhuzamos önkormányzati út ( 0179/2 hrsz ) lesz 60 km/h sebességkorlátozással."
   },
   {
@@ -2543,6 +2830,8 @@
     "lon_start": "22.542465",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "800.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2562,6 +2851,8 @@
     "lon_start": "22.410595",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "100.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2581,6 +2872,8 @@
     "lon_start": "17.402924",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "155.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2600,6 +2893,8 @@
     "lon_start": "17.841085",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "657.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2619,6 +2914,8 @@
     "lon_start": "17.819782",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "299.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2638,6 +2935,8 @@
     "lon_start": "17.874472",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "458.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2657,6 +2956,8 @@
     "lon_start": "17.755013",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "117.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2676,6 +2977,8 @@
     "lon_start": "18.436058",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "500.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2695,6 +2998,8 @@
     "lon_start": "18.912895",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "48.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2714,6 +3019,8 @@
     "lon_start": "19.025438",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "840.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -2733,6 +3040,8 @@
     "lon_start": "19.120476",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "889.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2752,6 +3061,8 @@
     "lon_start": "18.420843",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "321.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2771,6 +3082,8 @@
     "lon_start": "17.880789",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "10.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -2790,6 +3103,8 @@
     "lon_start": "18.946167",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "843.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2809,6 +3124,8 @@
     "lon_start": "19.367058",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "559.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2828,6 +3145,8 @@
     "lon_start": "19.795425",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "830.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -2847,6 +3166,8 @@
     "lon_start": "16.939285",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "100.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -2866,6 +3187,8 @@
     "lon_start": "16.935577",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -2885,6 +3208,8 @@
     "lon_start": "19.686085",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "585.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2904,6 +3229,8 @@
     "lon_start": "19.686085",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "585.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2923,6 +3250,8 @@
     "lon_start": "19.71644",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "492.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2942,6 +3271,8 @@
     "lon_start": "19.71644",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "492.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2961,6 +3292,8 @@
     "lon_start": "21.882566",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "262.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -2980,6 +3313,8 @@
     "lon_start": "16.95627",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "610.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -2999,6 +3334,8 @@
     "lon_start": "16.96272",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "120.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3018,6 +3355,8 @@
     "lon_start": "16.626776",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "930.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3037,6 +3376,8 @@
     "lon_start": "16.623487",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -3056,6 +3397,8 @@
     "lon_start": "19.4415",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "345.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3075,6 +3418,8 @@
     "lon_start": "19.422636",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "100.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3094,6 +3439,8 @@
     "lon_start": "19.442595",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "939.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3113,6 +3460,8 @@
     "lon_start": "19.434961",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3132,6 +3481,8 @@
     "lon_start": "19.434961",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "135.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3151,6 +3502,8 @@
     "lon_start": "19.442333",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "397.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3170,6 +3523,8 @@
     "lon_start": "19.444973",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "983.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -3189,6 +3544,8 @@
     "lon_start": "19.41265",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "245.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3208,6 +3565,8 @@
     "lon_start": "19.397062",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "398.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3227,6 +3586,8 @@
     "lon_start": "19.396961",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "765.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3246,6 +3607,8 @@
     "lon_start": "19.368027",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "950.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3265,6 +3628,8 @@
     "lon_start": "19.364258",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3284,6 +3649,8 @@
     "lon_start": "19.351591",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "8.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3303,6 +3670,8 @@
     "lon_start": "19.345766",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3322,6 +3691,8 @@
     "lon_start": "19.166792",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "220.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -3341,6 +3712,8 @@
     "lon_start": "18.778658",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "12.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -3360,6 +3733,8 @@
     "lon_start": "19.394186",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "383.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3379,6 +3754,8 @@
     "lon_start": "19.39903",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "4019.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3398,6 +3775,8 @@
     "lon_start": "20.22444",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "437.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3417,6 +3796,8 @@
     "lon_start": "19.225779",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "90.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -3436,6 +3817,8 @@
     "lon_start": "20.351027",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "266.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3455,6 +3838,8 @@
     "lon_start": "20.247171",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "83.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3474,6 +3859,8 @@
     "lon_start": "19.93713",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "828.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3493,6 +3880,8 @@
     "lon_start": "18.848595",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3512,6 +3901,8 @@
     "lon_start": "18.848593",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "437.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3531,6 +3922,8 @@
     "lon_start": "19.346027",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "160.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3550,6 +3943,8 @@
     "lon_start": "19.343485",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "880.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3569,6 +3964,8 @@
     "lon_start": "19.346027",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "160.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3588,6 +3985,8 @@
     "lon_start": "19.445036",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "20.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -3607,6 +4006,8 @@
     "lon_start": "19.44572",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "110.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -3626,6 +4027,8 @@
     "lon_start": "19.343485",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "880.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3645,6 +4048,8 @@
     "lon_start": "18.812626",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "212.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -3664,6 +4069,8 @@
     "lon_start": "19.690243",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "742.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -3683,6 +4090,8 @@
     "lon_start": "22.19467",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "300.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3702,6 +4111,8 @@
     "lon_start": "19.862299",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "300.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -3721,6 +4132,8 @@
     "lon_start": "19.079464",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "245.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3740,6 +4153,8 @@
     "lon_start": "17.01775",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "940.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3759,6 +4174,8 @@
     "lon_start": "17.01817",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "510.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3778,6 +4195,8 @@
     "lon_start": "17.58779",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "852.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -3797,6 +4216,8 @@
     "lon_start": "17.58684",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -3816,6 +4237,8 @@
     "lon_start": "17.811407",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "675.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -3835,6 +4258,8 @@
     "lon_start": "19.311216",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "847.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -3854,6 +4279,8 @@
     "lon_start": "20.986",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "800.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3873,6 +4300,8 @@
     "lon_start": "20.550287",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "800.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3892,6 +4321,8 @@
     "lon_start": "21.29347",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "75.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3911,6 +4342,8 @@
     "lon_start": "18.173513",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "690.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -3930,6 +4363,8 @@
     "lon_start": "20.419472",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "193.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -3949,6 +4384,8 @@
     "lon_start": "19.21648",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "673.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -3968,6 +4405,8 @@
     "lon_start": "19.384203",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "272.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -3987,6 +4426,8 @@
     "lon_start": "20.931591",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "1006.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -4006,6 +4447,8 @@
     "lon_start": "21.112402",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "507.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -4025,6 +4468,8 @@
     "lon_start": "19.815895",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "540.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4044,6 +4489,8 @@
     "lon_start": "20.104713",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "950.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -4063,6 +4510,8 @@
     "lon_start": "20.075092",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "274.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -4082,6 +4531,8 @@
     "lon_start": "18.28595",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4101,6 +4552,8 @@
     "lon_start": "20.238066",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "400.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -4120,6 +4573,8 @@
     "lon_start": "20.238066",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "400.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -4139,6 +4594,8 @@
     "lon_start": "20.220081",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -4158,6 +4615,8 @@
     "lon_start": "18.775932",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -4177,6 +4636,8 @@
     "lon_start": "18.741125",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "365.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -4196,6 +4657,8 @@
     "lon_start": "18.633286",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "620.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -4215,6 +4678,8 @@
     "lon_start": "17.538328",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "726.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4234,6 +4699,8 @@
     "lon_start": "17.474455",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "395.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4253,6 +4720,8 @@
     "lon_start": "20.792116",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "275.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -4272,6 +4741,8 @@
     "lon_start": "21.57081",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "195.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4291,6 +4762,8 @@
     "lon_start": "21.535494",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "248.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4310,6 +4783,8 @@
     "lon_start": "21.270172",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "35.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4329,6 +4804,8 @@
     "lon_start": "18.626957",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "987.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4348,6 +4825,8 @@
     "lon_start": "20.791842",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "820.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4367,6 +4846,8 @@
     "lon_start": "18.038815",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "500.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -4386,6 +4867,8 @@
     "lon_start": "16.776234",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "160.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -4405,6 +4888,8 @@
     "lon_start": "16.861095",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "705.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -4424,6 +4909,8 @@
     "lon_start": "18.609053",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "850.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4443,6 +4930,8 @@
     "lon_start": "16.704481",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "900.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -4462,6 +4951,8 @@
     "lon_start": "17.829533",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "529.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -4481,6 +4972,8 @@
     "lon_start": "17.58779",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "852.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4500,6 +4993,8 @@
     "lon_start": "17.58684",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4519,6 +5014,8 @@
     "lon_start": "17.694244",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "33.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -4538,6 +5035,8 @@
     "lon_start": "21.229963",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4557,6 +5056,8 @@
     "lon_start": "18.726305",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "720.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4576,6 +5077,8 @@
     "lon_start": "20.799076",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "310.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -4595,6 +5098,8 @@
     "lon_start": "18.755133",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "616.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4614,6 +5119,8 @@
     "lon_start": "18.738485",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "183.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4633,6 +5140,8 @@
     "lon_start": "18.733606",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "138.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4652,6 +5161,8 @@
     "lon_start": "20.761484",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4671,6 +5182,8 @@
     "lon_start": "18.75601",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "712.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4690,6 +5203,8 @@
     "lon_start": "18.839409",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "989.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4709,6 +5224,8 @@
     "lon_start": "18.725878",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4728,6 +5245,8 @@
     "lon_start": "20.620087",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "220.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4747,6 +5266,8 @@
     "lon_start": "20.833757",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4766,6 +5287,8 @@
     "lon_start": "21.086079",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "300.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4785,6 +5308,8 @@
     "lon_start": "21.22702",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4804,6 +5329,8 @@
     "lon_start": "20.922222",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -4823,6 +5350,8 @@
     "lon_start": "18.92676",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -4842,6 +5371,8 @@
     "lon_start": "20.36191",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -4861,6 +5392,8 @@
     "lon_start": "20.593586",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "700.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -4880,6 +5413,8 @@
     "lon_start": "18.886305",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "900.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4899,6 +5434,8 @@
     "lon_start": "18.740095",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "557.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -4918,6 +5455,8 @@
     "lon_start": "18.733082",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "515.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -4937,6 +5476,8 @@
     "lon_start": "21.59483",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "10.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -4956,6 +5497,8 @@
     "lon_start": "21.59483",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "10.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -4975,6 +5518,8 @@
     "lon_start": "19.279234",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": "Solt-Út Kft. TOP PLUSZ program keretében útfelújítást végez. Lakott tarületen kívül 60 km/h és lakott területen belül 30 km/h-s sebességkorlátozás került bevezetésre."
   },
   {
@@ -4994,6 +5539,8 @@
     "lon_start": "17.043268",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "450.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -5013,6 +5560,8 @@
     "lon_start": "19.13092",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5032,6 +5581,8 @@
     "lon_start": "20.92257",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "36.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5051,6 +5602,8 @@
     "lon_start": "20.644375",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "777.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5070,6 +5623,8 @@
     "lon_start": "20.74932",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "753.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5089,6 +5644,8 @@
     "lon_start": "17.424543",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "12.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5108,6 +5665,8 @@
     "lon_start": "20.170332",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "293.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -5127,6 +5686,8 @@
     "lon_start": "17.201468",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "423.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5146,6 +5707,8 @@
     "lon_start": "19.120768",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "850.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5165,6 +5728,8 @@
     "lon_start": "18.775932",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5184,6 +5749,8 @@
     "lon_start": "21.182432",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "600.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -5203,6 +5770,8 @@
     "lon_start": "19.980629",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "550.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5222,6 +5791,8 @@
     "lon_start": "20.673658",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "260.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5241,6 +5812,8 @@
     "lon_start": "17.443506",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -5260,6 +5833,8 @@
     "lon_start": "20.73055",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "600.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -5279,6 +5854,8 @@
     "lon_start": "18.957125",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "69.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5298,6 +5875,8 @@
     "lon_start": "19.32757",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "807.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5317,6 +5896,8 @@
     "lon_start": "19.921846",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "9.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5336,6 +5917,8 @@
     "lon_start": "18.723879",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "750.0",
+    "capacity_remaining": "75.0",
     "comment": "Útcsatlakozás átépítése. Esetenként félpályás korlátozás jelzőőrös forgalomirányítással."
   },
   {
@@ -5355,6 +5938,8 @@
     "lon_start": "21.340027",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "445.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5374,6 +5959,8 @@
     "lon_start": "21.661667",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "699.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -5393,6 +5980,8 @@
     "lon_start": "17.43234",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "710.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -5412,6 +6001,8 @@
     "lon_start": "20.793026",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "900.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -5431,6 +6022,8 @@
     "lon_start": "18.13084",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "235.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5450,6 +6043,8 @@
     "lon_start": "20.792267",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "70.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -5469,6 +6064,8 @@
     "lon_start": "17.741753",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "700.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5488,6 +6085,8 @@
     "lon_start": "17.905298",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "650.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5507,6 +6106,8 @@
     "lon_start": "18.920216",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "203.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -5526,6 +6127,8 @@
     "lon_start": "18.93367",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "980.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5545,6 +6148,8 @@
     "lon_start": "17.145721",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "620.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -5564,6 +6169,8 @@
     "lon_start": "17.474455",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "395.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5583,6 +6190,8 @@
     "lon_start": "17.18659",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "263.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -5602,6 +6211,8 @@
     "lon_start": "20.121094",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -5621,6 +6232,8 @@
     "lon_start": "19.680737",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5640,6 +6253,8 @@
     "lon_start": "19.657698",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "500.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5659,25 +6274,8 @@
     "lon_start": "17.991594",
     "lat_end": "",
     "lon_end": "",
-    "comment": null
-  },
-  {
-    "situation_record_id": "hu_UTINFORM_41010616_1",
-    "rekord_id_rovid": "41010616_1",
-    "situation_id": "hu_UTINFORM_41010616",
-    "record_version": "2",
-    "xsi_type": "MaintenanceWorks",
-    "situation_version_time": "2026-03-04 07:10:46",
-    "creation_time": "2026-03-04 07:10:31",
-    "version_time": "2026-03-04 07:10:46",
-    "overall_start": "2026-03-04 08:09:00",
-    "overall_end_tervezett": "2026-03-04 16:09:00",
-    "source_name": "Magyar Közút",
-    "road_number": "7361",
-    "lat_start": "47.051517",
-    "lon_start": "16.80622",
-    "lat_end": "",
-    "lon_end": "",
+    "distance_along": "450.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5697,6 +6295,8 @@
     "lon_start": "21.762642",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "600.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5716,6 +6316,8 @@
     "lon_start": "21.317293",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "500.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -5735,6 +6337,8 @@
     "lon_start": "20.77952",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "858.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5754,6 +6358,8 @@
     "lon_start": "18.759459",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5773,6 +6379,8 @@
     "lon_start": "21.415514",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -5792,6 +6400,8 @@
     "lon_start": "16.9738",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5811,6 +6421,8 @@
     "lon_start": "19.271927",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "600.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5830,6 +6442,8 @@
     "lon_start": "19.747831",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5849,6 +6463,8 @@
     "lon_start": "21.632555",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "644.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5868,6 +6484,8 @@
     "lon_start": "18.149685",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "400.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -5887,6 +6505,8 @@
     "lon_start": "19.371817",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "390.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -5906,6 +6526,8 @@
     "lon_start": "17.706123",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "500.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -5925,6 +6547,8 @@
     "lon_start": "16.565454",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "700.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -5944,6 +6568,8 @@
     "lon_start": "19.602036",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -5963,6 +6589,8 @@
     "lon_start": "16.655235",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -5982,6 +6610,8 @@
     "lon_start": "20.211216",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "200.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -6001,6 +6631,8 @@
     "lon_start": "19.30936",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "582.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -6020,6 +6652,8 @@
     "lon_start": "19.276163",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "176.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -6039,6 +6673,8 @@
     "lon_start": "18.476736",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "430.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -6058,6 +6694,8 @@
     "lon_start": "18.229448",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "600.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -6077,6 +6715,8 @@
     "lon_start": "16.947254",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "600.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -6096,6 +6736,8 @@
     "lon_start": "20.28703",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "305.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -6115,6 +6757,8 @@
     "lon_start": "19.656916",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "317.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -6134,6 +6778,8 @@
     "lon_start": "20.295218",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -6153,6 +6799,8 @@
     "lon_start": "17.110928",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "700.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -6172,6 +6820,8 @@
     "lon_start": "20.004116",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "450.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -6191,6 +6841,8 @@
     "lon_start": "21.199131",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "500.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -6210,6 +6862,8 @@
     "lon_start": "19.720215",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -6229,6 +6883,8 @@
     "lon_start": "18.02674",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "10.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -6248,6 +6904,8 @@
     "lon_start": "18.029257",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -6267,6 +6925,8 @@
     "lon_start": "18.32438",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -6286,6 +6946,8 @@
     "lon_start": "18.928589",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "600.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -6305,6 +6967,8 @@
     "lon_start": "17.551151",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "60.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -6324,6 +6988,8 @@
     "lon_start": "17.563858",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -6343,6 +7009,8 @@
     "lon_start": "19.00432",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "735.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -6362,6 +7030,8 @@
     "lon_start": "17.435549",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -6381,25 +7051,8 @@
     "lon_start": "18.112549",
     "lat_end": "",
     "lon_end": "",
-    "comment": null
-  },
-  {
-    "situation_record_id": "hu_UTINFORM_41010987_1",
-    "rekord_id_rovid": "41010987_1",
-    "situation_id": "hu_UTINFORM_41010987",
-    "record_version": "1",
-    "xsi_type": "MaintenanceWorks",
-    "situation_version_time": "2026-03-04 13:04:44",
-    "creation_time": "2026-03-04 13:04:44",
-    "version_time": "2026-03-04 13:04:44",
-    "overall_start": "2026-03-04 13:03:00",
-    "overall_end_tervezett": "2026-03-04 16:03:00",
-    "source_name": "Magyar Közút",
-    "road_number": "2108",
-    "lat_start": "47.663857",
-    "lon_start": "19.434576",
-    "lat_end": "",
-    "lon_end": "",
+    "distance_along": "50.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -6419,6 +7072,8 @@
     "lon_start": "17.221552",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "350.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -6438,25 +7093,8 @@
     "lon_start": "18.853289",
     "lat_end": "",
     "lon_end": "",
-    "comment": null
-  },
-  {
-    "situation_record_id": "hu_UTINFORM_41010999_1",
-    "rekord_id_rovid": "41010999_1",
-    "situation_id": "hu_UTINFORM_41010999",
-    "record_version": "2",
-    "xsi_type": "AuthorityOperation",
-    "situation_version_time": "2026-03-04 15:35:14",
-    "creation_time": "2026-03-04 13:39:50",
-    "version_time": "2026-03-04 15:35:14",
-    "overall_start": "2026-03-04 13:39:00",
-    "overall_end_tervezett": "2026-03-04 18:00:00",
-    "source_name": "Magyar Közút",
-    "road_number": "2122",
-    "lat_start": "47.94614",
-    "lon_start": "19.598522",
-    "lat_end": "",
-    "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -6476,6 +7114,8 @@
     "lon_start": "18.530857",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -6495,6 +7135,8 @@
     "lon_start": "18.876286",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -6514,6 +7156,8 @@
     "lon_start": "18.923876",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -6533,6 +7177,8 @@
     "lon_start": "18.906109",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -6552,6 +7198,8 @@
     "lon_start": "18.936699",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "400.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -6571,6 +7219,8 @@
     "lon_start": "18.743036",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "800.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -6590,6 +7240,8 @@
     "lon_start": "20.117495",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "800.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -6609,6 +7261,8 @@
     "lon_start": "18.978498",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -6628,6 +7282,8 @@
     "lon_start": "19.506886",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "514.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -6647,6 +7303,8 @@
     "lon_start": "19.41141",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "268.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -6666,6 +7324,8 @@
     "lon_start": "19.421192",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "500.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -6685,6 +7345,8 @@
     "lon_start": "17.449535",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "597.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -6704,6 +7366,8 @@
     "lon_start": "17.319605",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "995.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -6723,25 +7387,50 @@
     "lon_start": "18.717785",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "300.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
     "situation_record_id": "hu_UTINFORM_41011027_1",
     "rekord_id_rovid": "41011027_1",
     "situation_id": "hu_UTINFORM_41011027",
-    "record_version": "1",
+    "record_version": "2",
     "xsi_type": "VehicleObstruction",
-    "situation_version_time": "2026-03-04 15:58:59",
+    "situation_version_time": "2026-03-04 16:03:56",
     "creation_time": "2026-03-04 15:58:59",
-    "version_time": "2026-03-04 15:58:59",
+    "version_time": "2026-03-04 16:03:56",
     "overall_start": "2026-03-04 15:30:00",
     "overall_end_tervezett": "2026-03-04 18:57:00",
     "source_name": "Magyar Közút",
     "road_number": "M4",
-    "lat_start": "47.19391",
-    "lon_start": "20.413158",
+    "lat_start": "47.19361",
+    "lon_start": "20.411884",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "900.0",
+    "capacity_remaining": "50.0",
+    "comment": null
+  },
+  {
+    "situation_record_id": "hu_UTINFORM_41011028_1",
+    "rekord_id_rovid": "41011028_1",
+    "situation_id": "hu_UTINFORM_41011028",
+    "record_version": "1",
+    "xsi_type": "AuthorityOperation",
+    "situation_version_time": "2026-03-04 16:04:39",
+    "creation_time": "2026-03-04 16:04:39",
+    "version_time": "2026-03-04 16:04:39",
+    "overall_start": "2026-03-04 15:55:00",
+    "overall_end_tervezett": "2026-03-04 19:30:00",
+    "source_name": "Magyar Közút",
+    "road_number": "3509",
+    "lat_start": "47.793335",
+    "lon_start": "21.6785",
+    "lat_end": "",
+    "lon_end": "",
+    "distance_along": "960.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -6761,6 +7450,8 @@
     "lon_start": "19.684185",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "796.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -6780,6 +7471,8 @@
     "lon_start": "16.549116",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "612.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -6799,6 +7492,8 @@
     "lon_start": "20.471964",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": "Egyenetlen úttest táblával ellátott útszakasz. A burkolat minősége és állapota miatt 60km/h seb. korlátozás bevezetve."
   },
   {
@@ -6818,6 +7513,8 @@
     "lon_start": "20.485214",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "829.0",
+    "capacity_remaining": "100.0",
     "comment": "7,5 t súlykorlátozás van bevezetve kivéve célforgalommal."
   },
   {
@@ -6837,6 +7534,8 @@
     "lon_start": "17.511251",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "930.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -6856,6 +7555,8 @@
     "lon_start": "20.3896",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": "Egyenetlen úttest táblával jelzett útszakasz 20 t ősszsúlykorlátozással."
   },
   {
@@ -6875,6 +7576,8 @@
     "lon_start": "20.45215",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": "7,5 t súlykorlátozás bevezetve az út teljes hosszán."
   },
   {
@@ -6894,6 +7597,8 @@
     "lon_start": "16.600555",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "990.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -6913,6 +7618,8 @@
     "lon_start": "20.463648",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "818.0",
+    "capacity_remaining": "50.0",
     "comment": "Egyenetlen úttest táblával ellátott útszakasz."
   },
   {
@@ -6932,6 +7639,8 @@
     "lon_start": "20.375187",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "864.0",
+    "capacity_remaining": "50.0",
     "comment": "Egyenetlen úttest táblával ellátott útszakasz"
   },
   {
@@ -6951,6 +7660,8 @@
     "lon_start": "20.47292",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": "A szakaszon 7,5 t súlykorlátozás van bevezetve, kivéve célforgalom."
   },
   {
@@ -6970,6 +7681,8 @@
     "lon_start": "20.480467",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": "Egyenetlen úttest táblával ellátott útszakasz"
   },
   {
@@ -6989,6 +7702,8 @@
     "lon_start": "20.142797",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "456.0",
+    "capacity_remaining": "100.0",
     "comment": "Egyenetlen úttest táblával ellátott útszakasz"
   },
   {
@@ -7008,6 +7723,8 @@
     "lon_start": "20.43621",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": "Egyenetlen úttest táblával ellátott útszakasz 20t összsúlykorlátozással. "
   },
   {
@@ -7027,6 +7744,8 @@
     "lon_start": "20.237597",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": "Egyenetlen úttest táblával ellátott útszakasz"
   },
   {
@@ -7046,6 +7765,8 @@
     "lon_start": "20.142412",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "850.0",
+    "capacity_remaining": "100.0",
     "comment": "Nyomvályús útszakasz táblával jelölve"
   },
   {
@@ -7065,6 +7786,8 @@
     "lon_start": "20.44084",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "900.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -7084,6 +7807,8 @@
     "lon_start": "21.475935",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "950.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7103,6 +7828,8 @@
     "lon_start": "21.58076",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7122,6 +7849,8 @@
     "lon_start": "21.60578",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "392.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7141,6 +7870,8 @@
     "lon_start": "20.527298",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "300.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -7160,6 +7891,8 @@
     "lon_start": "20.50482",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "279.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7179,6 +7912,8 @@
     "lon_start": "19.1824",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "338.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -7198,6 +7933,8 @@
     "lon_start": "21.355736",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "362.0",
+    "capacity_remaining": "100.0",
     "comment": "A híd állagromlás megakadályozása érdekében 7,5 tonna súlykorlátozás és 3,5m szélességkorlátozás került bevezetésre. A híd keresztmetszete egy forgalmi sávra szűkült, a váltakozó irányú forgalmat jelzőtáblák szabályozzák."
   },
   {
@@ -7217,6 +7954,8 @@
     "lon_start": "16.651558",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "480.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7236,6 +7975,8 @@
     "lon_start": "20.800266",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "275.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7255,6 +7996,8 @@
     "lon_start": "20.213442",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "372.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -7274,6 +8017,8 @@
     "lon_start": "17.347847",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "282.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7293,6 +8038,8 @@
     "lon_start": "17.677505",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "829.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7312,6 +8059,8 @@
     "lon_start": "16.741856",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7331,6 +8080,8 @@
     "lon_start": "19.688421",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "1251.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -7350,6 +8101,8 @@
     "lon_start": "17.248936",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "125.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7369,6 +8122,8 @@
     "lon_start": "19.84175",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "253.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -7388,6 +8143,8 @@
     "lon_start": "20.576363",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "145.0",
+    "capacity_remaining": "100.0",
     "comment": "A szakaszon, 7,5t súlykorlátozás van bevezetve, kivéve célforgalom. "
   },
   {
@@ -7407,6 +8164,8 @@
     "lon_start": "20.1106",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "400.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7426,6 +8185,8 @@
     "lon_start": "20.110582",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "400.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7445,6 +8206,8 @@
     "lon_start": "17.168991",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "553.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7464,6 +8227,8 @@
     "lon_start": "17.482702",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "816.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7483,6 +8248,8 @@
     "lon_start": "16.560947",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "806.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -7502,6 +8269,8 @@
     "lon_start": "16.554604",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "339.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -7521,6 +8290,8 @@
     "lon_start": "21.63768",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7540,6 +8311,8 @@
     "lon_start": "20.77442",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "290.0",
+    "capacity_remaining": "75.0",
     "comment": "2618 ÚT 2+420 KM SZELVÉNYBEN LÉVŐ ACÉLSZERKEZETŰ HÍD ÁLLAGMEGÓVÁSA ÉRDEKÉBEN A HÍDRA MINDKÉT OLDALRÓL A BURKOLAT KÉTOLDALI SZŰKÍTÉSÉRE VOLT SZÜKSÉG.\nBETONELEMEK KÖZÖTTI SZÉLESSÉGKORLÁTOZÁS 3,0 MÉTER,MELYET TÁBLÁK JELEZNEK."
   },
   {
@@ -7559,6 +8332,8 @@
     "lon_start": "20.915558",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "998.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7578,6 +8353,8 @@
     "lon_start": "19.61469",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -7597,6 +8374,8 @@
     "lon_start": "21.35174",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "560.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7616,6 +8395,8 @@
     "lon_start": "21.851841",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -7635,6 +8416,8 @@
     "lon_start": "21.852154",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "10.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -7654,6 +8437,8 @@
     "lon_start": "21.852194",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "10.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -7673,6 +8458,8 @@
     "lon_start": "21.847555",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -7692,6 +8479,8 @@
     "lon_start": "21.847383",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "20.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -7711,6 +8500,8 @@
     "lon_start": "21.84734",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "20.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -7730,6 +8521,8 @@
     "lon_start": "18.931929",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "605.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7749,6 +8542,8 @@
     "lon_start": "18.63652",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -7768,6 +8563,8 @@
     "lon_start": "21.615822",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -7787,6 +8584,8 @@
     "lon_start": "18.849472",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "500.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7806,6 +8605,8 @@
     "lon_start": "18.793463",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "550.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7825,6 +8626,8 @@
     "lon_start": "18.656628",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "800.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -7844,6 +8647,8 @@
     "lon_start": "19.687984",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "430.0",
+    "capacity_remaining": "50.0",
     "comment": "541 Halasi úti híd felújítása"
   },
   {
@@ -7863,6 +8668,8 @@
     "lon_start": "21.592869",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "325.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -7882,6 +8689,8 @@
     "lon_start": "21.654032",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "119.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -7901,6 +8710,8 @@
     "lon_start": "18.682215",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "910.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -7920,6 +8731,8 @@
     "lon_start": "18.61643",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "970.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -7939,6 +8752,8 @@
     "lon_start": "18.413486",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "240.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -7958,6 +8773,8 @@
     "lon_start": "18.65391",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "1040.0",
+    "capacity_remaining": "0.0",
     "comment": "Az 57. számú főút 2x2 sávosra történő fejlesztésével kapcsolatos útépítés. "
   },
   {
@@ -7977,6 +8794,8 @@
     "lon_start": "18.618439",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "770.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -7996,6 +8815,8 @@
     "lon_start": "18.596752",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "125.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8015,6 +8836,8 @@
     "lon_start": "20.082775",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "676.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -8034,6 +8857,8 @@
     "lon_start": "18.87719",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "1200.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8053,6 +8878,8 @@
     "lon_start": "18.88476",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "200.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8072,6 +8899,8 @@
     "lon_start": "18.853619",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -8091,6 +8920,8 @@
     "lon_start": "18.852922",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -8110,6 +8941,8 @@
     "lon_start": "22.203224",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "50.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8129,6 +8962,8 @@
     "lon_start": "19.13891",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "958.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -8148,6 +8983,8 @@
     "lon_start": "18.965277",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "727.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -8167,6 +9004,8 @@
     "lon_start": "18.861263",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -8186,6 +9025,8 @@
     "lon_start": "18.654037",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "1030.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8205,6 +9046,8 @@
     "lon_start": "18.88196",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "435.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8224,6 +9067,8 @@
     "lon_start": "18.87055",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "400.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8243,6 +9088,8 @@
     "lon_start": "18.875069",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -8262,6 +9109,8 @@
     "lon_start": "21.6548",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -8281,6 +9130,8 @@
     "lon_start": "21.66245",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "700.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8300,6 +9151,8 @@
     "lon_start": "21.672482",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "915.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8319,6 +9172,8 @@
     "lon_start": "21.672482",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "915.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8338,6 +9193,8 @@
     "lon_start": "19.071278",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "170.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -8357,6 +9214,8 @@
     "lon_start": "19.080124",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "990.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -8376,6 +9235,8 @@
     "lon_start": "18.877481",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "800.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8395,6 +9256,8 @@
     "lon_start": "18.460575",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "85.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8414,6 +9277,8 @@
     "lon_start": "18.414925",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "230.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -8433,6 +9298,8 @@
     "lon_start": "19.024828",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "660.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8452,6 +9319,8 @@
     "lon_start": "19.060604",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "560.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8471,6 +9340,8 @@
     "lon_start": "19.102528",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "65.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8490,6 +9361,8 @@
     "lon_start": "19.121342",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "700.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8509,6 +9382,8 @@
     "lon_start": "19.123209",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "370.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8528,6 +9403,8 @@
     "lon_start": "19.140574",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "255.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8547,6 +9424,8 @@
     "lon_start": "18.81464",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "380.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -8566,6 +9445,8 @@
     "lon_start": "17.243065",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "760.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -8585,6 +9466,8 @@
     "lon_start": "18.653946",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "0.0",
     "comment": "Az 57. számú főút 2x2 sávosra történő fejlesztésével kapcsolatban ideiglenes forgalomkorlátozás\nbevezetése az 56412 Mohácsi összekötő út lezárásával. Terelőút az 56-os út már megépült és forgalomnak ideiglenesen átadott turbó körforgalom felé. "
   },
   {
@@ -8604,6 +9487,8 @@
     "lon_start": "20.28527",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "548.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8623,6 +9508,8 @@
     "lon_start": "18.46056",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "85.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8642,6 +9529,8 @@
     "lon_start": "18.877642",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "800.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8661,6 +9550,8 @@
     "lon_start": "20.485214",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "829.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -8680,6 +9571,8 @@
     "lon_start": "16.963545",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "824.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -8699,6 +9592,8 @@
     "lon_start": "16.963724",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -8718,6 +9613,8 @@
     "lon_start": "16.965286",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "916.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -8737,6 +9634,8 @@
     "lon_start": "19.612387",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "400.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -8756,6 +9655,8 @@
     "lon_start": "18.824678",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "350.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -8775,6 +9676,8 @@
     "lon_start": "18.555075",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "600.0",
+    "capacity_remaining": "50.0",
     "comment": "M1 autópálya építése miatt a 8101 j. úton körforgalmi csomópont építése miatt 100 méter hosszú terelőúton halad a forgalom Óbarok és Nagyegyháza között . A terelőúton két irányú forgalom biztosított."
   },
   {
@@ -8794,6 +9697,8 @@
     "lon_start": "18.86573",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8813,6 +9718,8 @@
     "lon_start": "18.73608",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8832,6 +9739,8 @@
     "lon_start": "18.281782",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "700.0",
+    "capacity_remaining": "40.0",
     "comment": "Sárkeszi lakott területen belüli szakaszán burkolat süllyedés, csatorna miatt. Fél pályás korlátozás + 30 km/h."
   },
   {
@@ -8851,6 +9760,8 @@
     "lon_start": "16.527145",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "50.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -8870,6 +9781,8 @@
     "lon_start": "18.087828",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "225.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8889,6 +9802,8 @@
     "lon_start": "18.08189",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "675.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -8908,6 +9823,8 @@
     "lon_start": "20.419472",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "193.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -8927,6 +9844,8 @@
     "lon_start": "19.29003",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "35.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -8946,6 +9865,8 @@
     "lon_start": "17.88942",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "704.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -8965,6 +9886,8 @@
     "lon_start": "17.63094",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "723.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -8984,6 +9907,8 @@
     "lon_start": "20.492294",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "475.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9003,6 +9928,8 @@
     "lon_start": "18.28434",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "1600.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9022,6 +9949,8 @@
     "lon_start": "21.063467",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "900.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9041,6 +9970,8 @@
     "lon_start": "18.436655",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9060,6 +9991,8 @@
     "lon_start": "20.133669",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "900.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9079,6 +10012,8 @@
     "lon_start": "18.522549",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "100.0",
+    "capacity_remaining": "40.0",
     "comment": "M1-es autópálya bővítése miatt hídfelújítás a 8101 j. úton Nagyegyháza - Szárliget között, fél pályás jelzőlámpás irányítással nappal. / napi munkák végeztével a forgalom visszakapja a két forgalmi sávot /"
   },
   {
@@ -9098,6 +10033,8 @@
     "lon_start": "19.401297",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "546.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9117,6 +10054,8 @@
     "lon_start": "21.623404",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "555.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9136,6 +10075,8 @@
     "lon_start": "21.715916",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9155,6 +10096,8 @@
     "lon_start": "21.796389",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "761.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9174,6 +10117,8 @@
     "lon_start": "21.69471",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9193,6 +10138,8 @@
     "lon_start": "21.729671",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9212,6 +10159,8 @@
     "lon_start": "19.254303",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "327.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9231,6 +10180,8 @@
     "lon_start": "17.531166",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "639.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9250,6 +10201,8 @@
     "lon_start": "21.568556",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "750.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9269,6 +10222,8 @@
     "lon_start": "21.56788",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "700.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9288,6 +10243,8 @@
     "lon_start": "18.775057",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9307,6 +10264,8 @@
     "lon_start": "17.522633",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "185.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9326,6 +10285,8 @@
     "lon_start": "19.008032",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "561.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9345,6 +10306,8 @@
     "lon_start": "19.005445",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "164.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9364,6 +10327,8 @@
     "lon_start": "19.25043",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "895.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9383,6 +10348,8 @@
     "lon_start": "19.21784",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "180.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9402,6 +10369,8 @@
     "lon_start": "19.229595",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "12.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9421,6 +10390,8 @@
     "lon_start": "19.992702",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "396.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -9440,6 +10411,8 @@
     "lon_start": "17.861383",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "216.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9459,6 +10432,8 @@
     "lon_start": "17.89112",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "393.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9478,6 +10453,8 @@
     "lon_start": "17.880058",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "891.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9497,6 +10474,8 @@
     "lon_start": "17.86262",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "347.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9516,6 +10495,8 @@
     "lon_start": "17.891611",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "216.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9535,6 +10516,8 @@
     "lon_start": "17.121727",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "750.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9554,6 +10537,8 @@
     "lon_start": "18.180122",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "337.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9573,6 +10558,8 @@
     "lon_start": "17.64468",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "790.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9592,6 +10579,8 @@
     "lon_start": "18.641268",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "490.0",
+    "capacity_remaining": "75.0",
     "comment": "M1-es autópálya építése miatt Bicske - Mány közötti híd - szélesítési munkálatai. A forgalom számára 6,0 m széles forgalmi sáv biztosított."
   },
   {
@@ -9611,6 +10600,8 @@
     "lon_start": "18.564493",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "650.0",
+    "capacity_remaining": "40.0",
     "comment": "M1-es autópálya bővítése miatt hídfelújítás a 8101 j. úton Óbarok belterületén, fél pályás jelzőlámpás irányítással nappal.   / napi munkák végeztével a forgalom visszakapja a két forgalmi sávot "
   },
   {
@@ -9630,6 +10621,8 @@
     "lon_start": "17.37535",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "370.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9649,6 +10642,8 @@
     "lon_start": "17.400095",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "986.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9668,6 +10663,8 @@
     "lon_start": "22.177765",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "770.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9687,6 +10684,8 @@
     "lon_start": "18.673178",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "300.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9706,6 +10705,8 @@
     "lon_start": "17.032732",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "770.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9725,6 +10726,8 @@
     "lon_start": "17.13603",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "900.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -9744,6 +10747,8 @@
     "lon_start": "19.281794",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "716.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9763,6 +10768,8 @@
     "lon_start": "19.304682",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "200.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9782,6 +10789,8 @@
     "lon_start": "17.657284",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "300.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9801,6 +10810,8 @@
     "lon_start": "18.786116",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "550.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9820,6 +10831,8 @@
     "lon_start": "20.391134",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "100.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9839,6 +10852,8 @@
     "lon_start": "19.087046",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "990.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -9858,6 +10873,8 @@
     "lon_start": "17.42538",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "681.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9877,6 +10894,8 @@
     "lon_start": "17.423067",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "644.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9896,6 +10915,8 @@
     "lon_start": "19.02116",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "906.0",
+    "capacity_remaining": "0.0",
     "comment": null
   },
   {
@@ -9915,6 +10936,8 @@
     "lon_start": "19.087046",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "990.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -9934,6 +10957,8 @@
     "lon_start": "19.82157",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -9953,6 +10978,8 @@
     "lon_start": "19.738138",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "335.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9972,6 +10999,8 @@
     "lon_start": "19.72947",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "255.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -9991,6 +11020,8 @@
     "lon_start": "19.043974",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "430.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -10010,6 +11041,8 @@
     "lon_start": "19.058891",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "320.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -10029,6 +11062,8 @@
     "lon_start": "18.98555",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "485.0",
+    "capacity_remaining": "50.0",
     "comment": null
   },
   {
@@ -10048,6 +11083,8 @@
     "lon_start": "19.058891",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "320.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -10067,6 +11104,8 @@
     "lon_start": "18.879984",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "10.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -10086,6 +11125,8 @@
     "lon_start": "18.972088",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "385.0",
+    "capacity_remaining": "100.0",
     "comment": null
   },
   {
@@ -10105,6 +11146,8 @@
     "lon_start": "19.043974",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "430.0",
+    "capacity_remaining": "40.0",
     "comment": null
   },
   {
@@ -10124,6 +11167,8 @@
     "lon_start": "17.242083",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -10143,6 +11188,8 @@
     "lon_start": "21.62451",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "147.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -10162,6 +11209,8 @@
     "lon_start": "18.266447",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "100.0",
+    "capacity_remaining": "75.0",
     "comment": null
   },
   {
@@ -10181,6 +11230,8 @@
     "lon_start": "20.409023",
     "lat_end": "",
     "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "0.0",
     "comment": null
   }
 ]
