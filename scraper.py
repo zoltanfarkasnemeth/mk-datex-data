@@ -3,6 +3,7 @@ import pandas as pd
 import os
 import json
 import copy
+import time
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from lxml import etree
@@ -41,17 +42,23 @@ def _fmt_dt(s):
     dt = _parse_dt(s)
     return dt.strftime("%Y-%m-%d %H:%M:%S") if dt else s
 
-def fetch_api_data():
+def fetch_api_data(retries=5, delay=10):
+    """API lekérés, 5x retry 10 másodperc várakozással."""
     headers = {"User-Agent": "Mozilla/5.0", "Accept": "application/xml"}
-    try:
-        resp = requests.get(API_URL, headers=headers, timeout=30)
-        print(f"HTTP státusz: {resp.status_code}")
-        if resp.status_code == 200:
-            return resp.content
-        else:
-            print(f"API hiba: {resp.status_code}")
-    except Exception as e:
-        print(f"Kapcsolódási hiba: {e}")
+    for attempt in range(1, retries + 1):
+        try:
+            print(f"  API lekérés ({attempt}/{retries})...")
+            resp = requests.get(API_URL, headers=headers, timeout=30)
+            print(f"  HTTP státusz: {resp.status_code}")
+            if resp.status_code == 200:
+                return resp.content
+            else:
+                print(f"  Hiba: {resp.status_code}")
+        except Exception as e:
+            print(f"  Kapcsolódási hiba: {e}")
+        if attempt < retries:
+            print(f"  Várakozás {delay}mp...")
+            time.sleep(delay)
     return None
 
 def load_json():
@@ -123,13 +130,13 @@ def fetch_and_save():
 
     xml_bytes = fetch_api_data()
     if not xml_bytes:
-        print("API nem elérhető, leállás.")
-        return
+        print("API nem elérhető 5 próbálkozás után sem. Leállás.")
+        exit(0)  # exit(0) = nem hibás kilépés, git commit kihagyható
 
     curr_records = parse_xml_to_records(xml_bytes)
     if not curr_records:
-        print("Üres vagy hibás XML, leállás.")
-        return
+        print("Üres vagy hibás XML. Leállás.")
+        exit(0)
 
     print(f"Beolvasva: {len(curr_records)} rekord.")
 
@@ -163,14 +170,14 @@ def fetch_and_save():
     # KÖVETKEZŐ FUTÁSOK
     # ================================================================
     df_old = pd.read_excel(EXCEL_FILE, dtype=str).fillna("")
-    curr_ids = set(r["situation_record_id"] for r in curr_records)
+    curr_ids     = set(r["situation_record_id"] for r in curr_records)
     existing_ids = set(df_old["situation_record_id"].astype(str))
-    valtozott = False
+    valtozott    = False
 
     # 1. LEZÁRT: AKTIV volt, de eltűnt az API-ból
     for idx, row in df_old.iterrows():
         if row["statusz"] == "AKTIV" and row["situation_record_id"] not in curr_ids:
-            print(f"LEZÁRT: {row['situation_record_id']}")
+            print(f"  LEZÁRT: {row['situation_record_id']}")
             df_old.at[idx, "statusz"]       = "LEZART"
             df_old.at[idx, "Lejarva_Ideje"] = ts
             valtozott = True
@@ -183,7 +190,7 @@ def fetch_and_save():
         df_new["Rogzites_Ideje"] = ts
         df_new["Lejarva_Ideje"]  = ""
         df_new["Korai_lezaras"]  = ""
-        print(f"ÚJ bejegyzések: {len(df_new)} db")
+        print(f"  ÚJ bejegyzések: {len(df_new)} db")
         df_old = pd.concat([df_old, df_new], ignore_index=True)
         valtozott = True
 
