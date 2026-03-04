@@ -60,18 +60,9 @@ def fetch_api_data(retries=5, delay=10):
             time.sleep(delay)
     return None
 
-def load_json():
-    if not os.path.exists(JSON_FILE):
-        return None
-    try:
-        with open(JSON_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except:
-        return None
-
 def save_json(records):
     with open(JSON_FILE, "w", encoding="utf-8") as f:
-        json.dump(records, f, ensure_ascii=False, indent=2)
+        json.dump(records, f, ensure_ascii=False, indent=2, default=str)
 
 def get_local(element, tagname):
     """Namespace-független keresés local-name() alapján."""
@@ -104,7 +95,7 @@ def parse_xml_to_records(xml_bytes):
         comment_nodes = rec_el.xpath(
             "./s:generalPublicComment/s:comment/c:values/c:value", namespaces=NS
         )
-        comment = comment_nodes[0].text if comment_nodes else ""
+        comment = comment_nodes[0].text if comment_nodes and comment_nodes[0].text else ""
 
         records.append({
             "situation_record_id":    full_rec_id,
@@ -167,6 +158,7 @@ def fetch_and_save():
         df_new["Rogzites_Ideje"] = ts
         df_new["Lejarva_Ideje"]  = ""
         df_new["Korai_lezaras"]  = ""
+        df_new = df_new.fillna("").astype(str)
         df_new.reindex(columns=COL_ORDER).to_excel(EXCEL_FILE, index=False)
         save_json(curr_records)
         print(f"Elmentve: {len(df_new)} sor.")
@@ -196,6 +188,7 @@ def fetch_and_save():
         df_new["Rogzites_Ideje"] = ts
         df_new["Lejarva_Ideje"]  = ""
         df_new["Korai_lezaras"]  = ""
+        df_new = df_new.fillna("").astype(str)
         print(f"  ÚJ bejegyzések: {len(df_new)} db")
         df_old = pd.concat([df_old, df_new], ignore_index=True)
         valtozott = True
