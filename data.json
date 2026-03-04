@@ -18,7 +18,28 @@
     "lon_end": "",
     "distance_along": "950.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
+  },
+  {
+    "situation_record_id": "hu_UTINFORM_3133693_1",
+    "rekord_id_rovid": "3133693_1",
+    "situation_id": "hu_UTINFORM_3133693",
+    "record_version": "1",
+    "xsi_type": "Accident",
+    "situation_version_time": "2026-03-04 20:47:54",
+    "creation_time": "2026-03-04 20:47:54",
+    "version_time": "2026-03-04 20:47:54",
+    "overall_start": "2026-03-04 18:18:00",
+    "overall_end_tervezett": "",
+    "source_name": "Magyar Közút",
+    "road_number": "2102",
+    "lat_start": "47.60361",
+    "lon_start": "19.195032",
+    "lat_end": "",
+    "lon_end": "",
+    "distance_along": "50.0",
+    "capacity_remaining": "100.0",
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41000371_1",
@@ -39,7 +60,7 @@
     "lon_end": "",
     "distance_along": "518.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41000373_1",
@@ -60,7 +81,7 @@
     "lon_end": "",
     "distance_along": "839.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41000374_1",
@@ -81,7 +102,7 @@
     "lon_end": "",
     "distance_along": "695.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41000375_1",
@@ -102,7 +123,7 @@
     "lon_end": "",
     "distance_along": "586.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41000615_1",
@@ -123,7 +144,7 @@
     "lon_end": "",
     "distance_along": "86.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41000993_1",
@@ -144,7 +165,7 @@
     "lon_end": "",
     "distance_along": "988.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001018_1",
@@ -165,7 +186,7 @@
     "lon_end": "",
     "distance_along": "316.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001031_1",
@@ -186,7 +207,7 @@
     "lon_end": "",
     "distance_along": "565.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001032_1",
@@ -207,7 +228,7 @@
     "lon_end": "",
     "distance_along": "10.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001490_1",
@@ -228,7 +249,7 @@
     "lon_end": "",
     "distance_along": "115.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001495_1",
@@ -249,7 +270,7 @@
     "lon_end": "",
     "distance_along": "555.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001503_1",
@@ -270,7 +291,7 @@
     "lon_end": "",
     "distance_along": "14.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001595_1",
@@ -291,7 +312,7 @@
     "lon_end": "",
     "distance_along": "348.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001628_1",
@@ -312,7 +333,7 @@
     "lon_end": "",
     "distance_along": "977.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001629_1",
@@ -333,7 +354,7 @@
     "lon_end": "",
     "distance_along": "700.0",
     "capacity_remaining": "66.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001637_1",
@@ -354,7 +375,7 @@
     "lon_end": "",
     "distance_along": "500.0",
     "capacity_remaining": "66.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001648_1",
@@ -375,7 +396,7 @@
     "lon_end": "",
     "distance_along": "135.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001938_1",
@@ -396,7 +417,7 @@
     "lon_end": "",
     "distance_along": "235.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001970_1",
@@ -417,7 +438,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001974_1",
@@ -438,7 +459,7 @@
     "lon_end": "",
     "distance_along": "495.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41001978_1",
@@ -459,7 +480,7 @@
     "lon_end": "",
     "distance_along": "934.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41002478_1",
@@ -480,7 +501,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41002772_1",
@@ -501,7 +522,7 @@
     "lon_end": "",
     "distance_along": "550.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41002788_1",
@@ -522,7 +543,7 @@
     "lon_end": "",
     "distance_along": "150.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41002811_1",
@@ -564,7 +585,7 @@
     "lon_end": "",
     "distance_along": "905.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003122_1",
@@ -585,7 +606,7 @@
     "lon_end": "",
     "distance_along": "470.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003140_1",
@@ -606,7 +627,7 @@
     "lon_end": "",
     "distance_along": "991.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003160_1",
@@ -627,7 +648,7 @@
     "lon_end": "",
     "distance_along": "833.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003214_1",
@@ -648,7 +669,7 @@
     "lon_end": "",
     "distance_along": "268.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003227_1",
@@ -669,7 +690,7 @@
     "lon_end": "",
     "distance_along": "230.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003228_1",
@@ -690,7 +711,7 @@
     "lon_end": "",
     "distance_along": "2010.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003230_1",
@@ -711,7 +732,7 @@
     "lon_end": "",
     "distance_along": "864.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003231_1",
@@ -732,7 +753,7 @@
     "lon_end": "",
     "distance_along": "104.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003232_1",
@@ -753,7 +774,7 @@
     "lon_end": "",
     "distance_along": "508.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003233_1",
@@ -774,7 +795,7 @@
     "lon_end": "",
     "distance_along": "750.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003239_1",
@@ -795,7 +816,7 @@
     "lon_end": "",
     "distance_along": "180.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003246_1",
@@ -816,7 +837,7 @@
     "lon_end": "",
     "distance_along": "910.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003247_1",
@@ -837,7 +858,7 @@
     "lon_end": "",
     "distance_along": "910.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003248_1",
@@ -858,7 +879,7 @@
     "lon_end": "",
     "distance_along": "750.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003249_1",
@@ -879,7 +900,7 @@
     "lon_end": "",
     "distance_along": "508.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003250_1",
@@ -900,7 +921,7 @@
     "lon_end": "",
     "distance_along": "104.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003252_1",
@@ -921,7 +942,7 @@
     "lon_end": "",
     "distance_along": "864.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003253_1",
@@ -942,7 +963,7 @@
     "lon_end": "",
     "distance_along": "2010.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003254_1",
@@ -963,7 +984,7 @@
     "lon_end": "",
     "distance_along": "230.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003273_1",
@@ -984,7 +1005,7 @@
     "lon_end": "",
     "distance_along": "25.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003658_1",
@@ -1005,7 +1026,7 @@
     "lon_end": "",
     "distance_along": "668.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003672_1",
@@ -1026,7 +1047,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003673_1",
@@ -1047,7 +1068,7 @@
     "lon_end": "",
     "distance_along": "765.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003674_1",
@@ -1068,7 +1089,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003678_1",
@@ -1089,7 +1110,7 @@
     "lon_end": "",
     "distance_along": "400.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003679_1",
@@ -1110,7 +1131,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003715_1",
@@ -1131,7 +1152,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003856_1",
@@ -1152,7 +1173,7 @@
     "lon_end": "",
     "distance_along": "140.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003859_1",
@@ -1173,7 +1194,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41003988_1",
@@ -1194,7 +1215,7 @@
     "lon_end": "",
     "distance_along": "440.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004000_1",
@@ -1215,7 +1236,7 @@
     "lon_end": "",
     "distance_along": "755.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004055_1",
@@ -1236,7 +1257,7 @@
     "lon_end": "",
     "distance_along": "56.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004059_1",
@@ -1257,7 +1278,7 @@
     "lon_end": "",
     "distance_along": "571.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004118_1",
@@ -1278,7 +1299,7 @@
     "lon_end": "",
     "distance_along": "840.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004119_1",
@@ -1299,7 +1320,7 @@
     "lon_end": "",
     "distance_along": "325.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004122_1",
@@ -1341,7 +1362,7 @@
     "lon_end": "",
     "distance_along": "554.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004534_1",
@@ -1362,7 +1383,7 @@
     "lon_end": "",
     "distance_along": "781.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004535_1",
@@ -1383,7 +1404,7 @@
     "lon_end": "",
     "distance_along": "139.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004536_1",
@@ -1404,7 +1425,7 @@
     "lon_end": "",
     "distance_along": "415.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004538_1",
@@ -1425,7 +1446,7 @@
     "lon_end": "",
     "distance_along": "9.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004542_1",
@@ -1446,7 +1467,7 @@
     "lon_end": "",
     "distance_along": "350.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004564_1",
@@ -1467,7 +1488,7 @@
     "lon_end": "",
     "distance_along": "200.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41004663_1",
@@ -1488,7 +1509,7 @@
     "lon_end": "",
     "distance_along": "613.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005021_1",
@@ -1509,7 +1530,7 @@
     "lon_end": "",
     "distance_along": "200.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005033_1",
@@ -1530,7 +1551,7 @@
     "lon_end": "",
     "distance_along": "330.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005039_1",
@@ -1551,7 +1572,7 @@
     "lon_end": "",
     "distance_along": "668.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005154_1",
@@ -1572,7 +1593,7 @@
     "lon_end": "",
     "distance_along": "49.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005156_1",
@@ -1593,7 +1614,7 @@
     "lon_end": "",
     "distance_along": "868.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005200_1",
@@ -1614,7 +1635,7 @@
     "lon_end": "",
     "distance_along": "568.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005202_1",
@@ -1635,7 +1656,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005217_1",
@@ -1656,7 +1677,7 @@
     "lon_end": "",
     "distance_along": "785.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005221_1",
@@ -1677,7 +1698,7 @@
     "lon_end": "",
     "distance_along": "752.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005222_1",
@@ -1698,7 +1719,7 @@
     "lon_end": "",
     "distance_along": "643.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005231_1",
@@ -1719,7 +1740,7 @@
     "lon_end": "",
     "distance_along": "752.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005244_1",
@@ -1740,7 +1761,7 @@
     "lon_end": "",
     "distance_along": "297.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005250_1",
@@ -1761,7 +1782,7 @@
     "lon_end": "",
     "distance_along": "200.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005594_1",
@@ -1782,7 +1803,7 @@
     "lon_end": "",
     "distance_along": "340.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005673_1",
@@ -1803,7 +1824,7 @@
     "lon_end": "",
     "distance_along": "650.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005808_1",
@@ -1824,7 +1845,7 @@
     "lon_end": "",
     "distance_along": "540.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005878_1",
@@ -1845,7 +1866,7 @@
     "lon_end": "",
     "distance_along": "428.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41005925_1",
@@ -1866,7 +1887,7 @@
     "lon_end": "",
     "distance_along": "220.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006074_1",
@@ -1887,7 +1908,7 @@
     "lon_end": "",
     "distance_along": "900.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006076_1",
@@ -1908,7 +1929,7 @@
     "lon_end": "",
     "distance_along": "144.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006079_1",
@@ -1929,7 +1950,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006097_1",
@@ -1950,7 +1971,7 @@
     "lon_end": "",
     "distance_along": "90.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006098_1",
@@ -1971,7 +1992,7 @@
     "lon_end": "",
     "distance_along": "550.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006422_1",
@@ -1992,7 +2013,7 @@
     "lon_end": "",
     "distance_along": "771.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006425_1",
@@ -2013,7 +2034,7 @@
     "lon_end": "",
     "distance_along": "200.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006429_1",
@@ -2034,7 +2055,7 @@
     "lon_end": "",
     "distance_along": "502.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006633_1",
@@ -2055,7 +2076,7 @@
     "lon_end": "",
     "distance_along": "2.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006718_1",
@@ -2076,7 +2097,7 @@
     "lon_end": "",
     "distance_along": "606.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006721_1",
@@ -2097,7 +2118,7 @@
     "lon_end": "",
     "distance_along": "154.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006726_1",
@@ -2118,7 +2139,7 @@
     "lon_end": "",
     "distance_along": "808.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006738_1",
@@ -2139,7 +2160,7 @@
     "lon_end": "",
     "distance_along": "979.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006748_1",
@@ -2160,7 +2181,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006750_1",
@@ -2181,7 +2202,7 @@
     "lon_end": "",
     "distance_along": "37.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006751_1",
@@ -2202,7 +2223,7 @@
     "lon_end": "",
     "distance_along": "50.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006752_1",
@@ -2223,7 +2244,7 @@
     "lon_end": "",
     "distance_along": "800.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006757_1",
@@ -2244,7 +2265,7 @@
     "lon_end": "",
     "distance_along": "375.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006759_1",
@@ -2265,7 +2286,7 @@
     "lon_end": "",
     "distance_along": "20.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006760_1",
@@ -2286,7 +2307,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006766_1",
@@ -2307,7 +2328,7 @@
     "lon_end": "",
     "distance_along": "660.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006770_1",
@@ -2328,7 +2349,7 @@
     "lon_end": "",
     "distance_along": "275.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006774_1",
@@ -2349,7 +2370,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006891_1",
@@ -2370,7 +2391,7 @@
     "lon_end": "",
     "distance_along": "425.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006895_1",
@@ -2391,7 +2412,7 @@
     "lon_end": "",
     "distance_along": "910.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006950_1",
@@ -2412,7 +2433,7 @@
     "lon_end": "",
     "distance_along": "282.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41006951_1",
@@ -2433,7 +2454,7 @@
     "lon_end": "",
     "distance_along": "30.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007328_1",
@@ -2454,7 +2475,7 @@
     "lon_end": "",
     "distance_along": "5.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007338_1",
@@ -2475,7 +2496,7 @@
     "lon_end": "",
     "distance_along": "75.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007343_1",
@@ -2496,7 +2517,7 @@
     "lon_end": "",
     "distance_along": "60.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007364_1",
@@ -2517,7 +2538,7 @@
     "lon_end": "",
     "distance_along": "70.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007374_1",
@@ -2538,7 +2559,7 @@
     "lon_end": "",
     "distance_along": "822.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007384_1",
@@ -2559,7 +2580,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007423_1",
@@ -2580,7 +2601,7 @@
     "lon_end": "",
     "distance_along": "181.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007436_1",
@@ -2601,7 +2622,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007437_1",
@@ -2622,7 +2643,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007482_1",
@@ -2643,7 +2664,7 @@
     "lon_end": "",
     "distance_along": "803.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007508_1",
@@ -2685,7 +2706,7 @@
     "lon_end": "",
     "distance_along": "312.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007727_1",
@@ -2706,7 +2727,7 @@
     "lon_end": "",
     "distance_along": "452.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007740_1",
@@ -2727,7 +2748,7 @@
     "lon_end": "",
     "distance_along": "450.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007768_1",
@@ -2748,7 +2769,7 @@
     "lon_end": "",
     "distance_along": "140.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007772_1",
@@ -2790,7 +2811,7 @@
     "lon_end": "",
     "distance_along": "800.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007810_1",
@@ -2811,7 +2832,7 @@
     "lon_end": "",
     "distance_along": "100.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007855_1",
@@ -2832,7 +2853,7 @@
     "lon_end": "",
     "distance_along": "155.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007859_1",
@@ -2853,7 +2874,7 @@
     "lon_end": "",
     "distance_along": "657.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007862_1",
@@ -2874,7 +2895,7 @@
     "lon_end": "",
     "distance_along": "299.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007867_1",
@@ -2895,7 +2916,7 @@
     "lon_end": "",
     "distance_along": "458.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41007869_1",
@@ -2916,7 +2937,7 @@
     "lon_end": "",
     "distance_along": "117.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008014_1",
@@ -2937,7 +2958,7 @@
     "lon_end": "",
     "distance_along": "500.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008234_1",
@@ -2958,7 +2979,7 @@
     "lon_end": "",
     "distance_along": "48.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008245_1",
@@ -2979,7 +3000,7 @@
     "lon_end": "",
     "distance_along": "840.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008269_1",
@@ -3000,7 +3021,7 @@
     "lon_end": "",
     "distance_along": "889.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008271_1",
@@ -3021,7 +3042,7 @@
     "lon_end": "",
     "distance_along": "321.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008295_1",
@@ -3042,7 +3063,7 @@
     "lon_end": "",
     "distance_along": "10.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008302_1",
@@ -3063,7 +3084,7 @@
     "lon_end": "",
     "distance_along": "843.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008311_1",
@@ -3084,7 +3105,7 @@
     "lon_end": "",
     "distance_along": "559.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008316_1",
@@ -3105,7 +3126,7 @@
     "lon_end": "",
     "distance_along": "830.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008323_1",
@@ -3126,7 +3147,7 @@
     "lon_end": "",
     "distance_along": "100.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008324_1",
@@ -3147,7 +3168,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008334_1",
@@ -3168,7 +3189,7 @@
     "lon_end": "",
     "distance_along": "585.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008335_1",
@@ -3189,7 +3210,7 @@
     "lon_end": "",
     "distance_along": "585.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008336_1",
@@ -3210,7 +3231,7 @@
     "lon_end": "",
     "distance_along": "492.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008337_1",
@@ -3231,7 +3252,7 @@
     "lon_end": "",
     "distance_along": "492.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008367_1",
@@ -3252,7 +3273,7 @@
     "lon_end": "",
     "distance_along": "262.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008575_1",
@@ -3273,7 +3294,7 @@
     "lon_end": "",
     "distance_along": "610.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008579_1",
@@ -3294,7 +3315,7 @@
     "lon_end": "",
     "distance_along": "120.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008593_1",
@@ -3315,7 +3336,7 @@
     "lon_end": "",
     "distance_along": "930.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008595_1",
@@ -3336,7 +3357,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008632_1",
@@ -3357,7 +3378,7 @@
     "lon_end": "",
     "distance_along": "345.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008634_1",
@@ -3378,7 +3399,7 @@
     "lon_end": "",
     "distance_along": "100.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008636_1",
@@ -3399,7 +3420,7 @@
     "lon_end": "",
     "distance_along": "939.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008638_1",
@@ -3420,7 +3441,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008639_1",
@@ -3441,7 +3462,7 @@
     "lon_end": "",
     "distance_along": "135.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008640_1",
@@ -3462,7 +3483,7 @@
     "lon_end": "",
     "distance_along": "397.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008643_1",
@@ -3483,7 +3504,7 @@
     "lon_end": "",
     "distance_along": "983.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008647_1",
@@ -3504,7 +3525,7 @@
     "lon_end": "",
     "distance_along": "245.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008649_1",
@@ -3525,7 +3546,7 @@
     "lon_end": "",
     "distance_along": "398.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008653_1",
@@ -3546,7 +3567,7 @@
     "lon_end": "",
     "distance_along": "765.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008657_1",
@@ -3567,7 +3588,7 @@
     "lon_end": "",
     "distance_along": "950.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008660_1",
@@ -3588,7 +3609,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008662_1",
@@ -3609,7 +3630,7 @@
     "lon_end": "",
     "distance_along": "8.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008664_1",
@@ -3630,7 +3651,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008683_1",
@@ -3651,7 +3672,7 @@
     "lon_end": "",
     "distance_along": "220.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008686_1",
@@ -3672,7 +3693,7 @@
     "lon_end": "",
     "distance_along": "12.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008697_1",
@@ -3693,7 +3714,7 @@
     "lon_end": "",
     "distance_along": "383.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008699_1",
@@ -3714,7 +3735,7 @@
     "lon_end": "",
     "distance_along": "4019.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008701_1",
@@ -3735,7 +3756,7 @@
     "lon_end": "",
     "distance_along": "437.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008703_1",
@@ -3756,7 +3777,7 @@
     "lon_end": "",
     "distance_along": "90.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008705_1",
@@ -3777,7 +3798,7 @@
     "lon_end": "",
     "distance_along": "266.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008706_1",
@@ -3798,7 +3819,7 @@
     "lon_end": "",
     "distance_along": "83.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008707_1",
@@ -3819,7 +3840,7 @@
     "lon_end": "",
     "distance_along": "828.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008708_1",
@@ -3840,7 +3861,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008709_1",
@@ -3861,7 +3882,7 @@
     "lon_end": "",
     "distance_along": "437.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008710_1",
@@ -3882,7 +3903,7 @@
     "lon_end": "",
     "distance_along": "160.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008714_1",
@@ -3903,7 +3924,7 @@
     "lon_end": "",
     "distance_along": "880.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008715_1",
@@ -3924,7 +3945,7 @@
     "lon_end": "",
     "distance_along": "160.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008720_1",
@@ -3945,7 +3966,7 @@
     "lon_end": "",
     "distance_along": "20.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008721_1",
@@ -3966,7 +3987,7 @@
     "lon_end": "",
     "distance_along": "110.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008726_1",
@@ -3987,7 +4008,7 @@
     "lon_end": "",
     "distance_along": "880.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008742_1",
@@ -4008,7 +4029,7 @@
     "lon_end": "",
     "distance_along": "212.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008762_1",
@@ -4029,7 +4050,7 @@
     "lon_end": "",
     "distance_along": "742.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008777_1",
@@ -4050,7 +4071,7 @@
     "lon_end": "",
     "distance_along": "300.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008792_1",
@@ -4071,7 +4092,7 @@
     "lon_end": "",
     "distance_along": "300.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008804_1",
@@ -4092,7 +4113,7 @@
     "lon_end": "",
     "distance_along": "245.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008805_1",
@@ -4113,7 +4134,7 @@
     "lon_end": "",
     "distance_along": "940.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008810_1",
@@ -4134,7 +4155,7 @@
     "lon_end": "",
     "distance_along": "510.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008812_1",
@@ -4155,7 +4176,7 @@
     "lon_end": "",
     "distance_along": "852.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008816_1",
@@ -4176,7 +4197,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008817_1",
@@ -4197,7 +4218,7 @@
     "lon_end": "",
     "distance_along": "675.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008830_1",
@@ -4218,7 +4239,7 @@
     "lon_end": "",
     "distance_along": "847.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008835_1",
@@ -4239,7 +4260,7 @@
     "lon_end": "",
     "distance_along": "800.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008837_1",
@@ -4260,7 +4281,7 @@
     "lon_end": "",
     "distance_along": "800.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008839_1",
@@ -4281,7 +4302,7 @@
     "lon_end": "",
     "distance_along": "75.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008840_1",
@@ -4302,7 +4323,7 @@
     "lon_end": "",
     "distance_along": "690.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008843_1",
@@ -4323,7 +4344,7 @@
     "lon_end": "",
     "distance_along": "193.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008845_1",
@@ -4344,7 +4365,7 @@
     "lon_end": "",
     "distance_along": "673.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008846_1",
@@ -4365,7 +4386,7 @@
     "lon_end": "",
     "distance_along": "272.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008862_1",
@@ -4386,7 +4407,7 @@
     "lon_end": "",
     "distance_along": "1006.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008863_1",
@@ -4407,7 +4428,7 @@
     "lon_end": "",
     "distance_along": "507.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008864_1",
@@ -4428,7 +4449,7 @@
     "lon_end": "",
     "distance_along": "540.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008870_1",
@@ -4449,7 +4470,7 @@
     "lon_end": "",
     "distance_along": "950.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008871_1",
@@ -4470,7 +4491,7 @@
     "lon_end": "",
     "distance_along": "274.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008873_1",
@@ -4491,7 +4512,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008875_1",
@@ -4512,7 +4533,7 @@
     "lon_end": "",
     "distance_along": "400.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008876_1",
@@ -4533,7 +4554,7 @@
     "lon_end": "",
     "distance_along": "400.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41008887_1",
@@ -4554,7 +4575,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009136_1",
@@ -4575,7 +4596,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009191_1",
@@ -4596,7 +4617,7 @@
     "lon_end": "",
     "distance_along": "365.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009193_1",
@@ -4617,7 +4638,7 @@
     "lon_end": "",
     "distance_along": "620.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009202_1",
@@ -4638,7 +4659,7 @@
     "lon_end": "",
     "distance_along": "726.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009204_1",
@@ -4659,7 +4680,7 @@
     "lon_end": "",
     "distance_along": "395.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009219_1",
@@ -4680,7 +4701,7 @@
     "lon_end": "",
     "distance_along": "275.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009223_1",
@@ -4701,7 +4722,7 @@
     "lon_end": "",
     "distance_along": "195.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009224_1",
@@ -4722,7 +4743,7 @@
     "lon_end": "",
     "distance_along": "248.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009226_1",
@@ -4743,7 +4764,7 @@
     "lon_end": "",
     "distance_along": "35.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009227_1",
@@ -4764,7 +4785,7 @@
     "lon_end": "",
     "distance_along": "987.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009228_1",
@@ -4785,7 +4806,7 @@
     "lon_end": "",
     "distance_along": "820.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009230_1",
@@ -4806,7 +4827,7 @@
     "lon_end": "",
     "distance_along": "500.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009233_1",
@@ -4827,7 +4848,7 @@
     "lon_end": "",
     "distance_along": "160.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009235_1",
@@ -4848,7 +4869,7 @@
     "lon_end": "",
     "distance_along": "705.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009236_1",
@@ -4869,7 +4890,7 @@
     "lon_end": "",
     "distance_along": "850.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009239_1",
@@ -4890,7 +4911,7 @@
     "lon_end": "",
     "distance_along": "900.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009244_1",
@@ -4911,7 +4932,7 @@
     "lon_end": "",
     "distance_along": "529.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009246_1",
@@ -4932,7 +4953,7 @@
     "lon_end": "",
     "distance_along": "852.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009250_1",
@@ -4953,7 +4974,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009252_1",
@@ -4974,7 +4995,7 @@
     "lon_end": "",
     "distance_along": "33.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009255_1",
@@ -4995,7 +5016,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009259_1",
@@ -5016,7 +5037,7 @@
     "lon_end": "",
     "distance_along": "720.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009260_1",
@@ -5037,7 +5058,7 @@
     "lon_end": "",
     "distance_along": "310.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009261_1",
@@ -5058,7 +5079,7 @@
     "lon_end": "",
     "distance_along": "616.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009262_1",
@@ -5079,7 +5100,7 @@
     "lon_end": "",
     "distance_along": "183.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009264_1",
@@ -5100,7 +5121,7 @@
     "lon_end": "",
     "distance_along": "138.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009265_1",
@@ -5121,7 +5142,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009266_1",
@@ -5142,7 +5163,7 @@
     "lon_end": "",
     "distance_along": "712.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009267_1",
@@ -5163,7 +5184,7 @@
     "lon_end": "",
     "distance_along": "989.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009268_1",
@@ -5184,7 +5205,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009269_1",
@@ -5205,7 +5226,7 @@
     "lon_end": "",
     "distance_along": "220.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009270_1",
@@ -5226,7 +5247,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009271_1",
@@ -5247,7 +5268,7 @@
     "lon_end": "",
     "distance_along": "300.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009446_1",
@@ -5268,7 +5289,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009571_1",
@@ -5289,7 +5310,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009596_1",
@@ -5310,7 +5331,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009617_1",
@@ -5331,7 +5352,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009622_1",
@@ -5352,7 +5373,7 @@
     "lon_end": "",
     "distance_along": "700.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009736_1",
@@ -5373,7 +5394,7 @@
     "lon_end": "",
     "distance_along": "900.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009806_1",
@@ -5394,7 +5415,7 @@
     "lon_end": "",
     "distance_along": "557.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009823_1",
@@ -5415,7 +5436,7 @@
     "lon_end": "",
     "distance_along": "515.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009857_1",
@@ -5436,7 +5457,7 @@
     "lon_end": "",
     "distance_along": "10.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009861_1",
@@ -5457,7 +5478,7 @@
     "lon_end": "",
     "distance_along": "10.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009912_1",
@@ -5499,7 +5520,7 @@
     "lon_end": "",
     "distance_along": "450.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009919_1",
@@ -5520,7 +5541,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009974_1",
@@ -5541,7 +5562,7 @@
     "lon_end": "",
     "distance_along": "36.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009978_1",
@@ -5562,7 +5583,7 @@
     "lon_end": "",
     "distance_along": "777.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009980_1",
@@ -5583,7 +5604,7 @@
     "lon_end": "",
     "distance_along": "753.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009990_1",
@@ -5604,7 +5625,7 @@
     "lon_end": "",
     "distance_along": "12.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009992_1",
@@ -5625,7 +5646,7 @@
     "lon_end": "",
     "distance_along": "293.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41009993_1",
@@ -5646,7 +5667,7 @@
     "lon_end": "",
     "distance_along": "423.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010024_1",
@@ -5667,7 +5688,7 @@
     "lon_end": "",
     "distance_along": "850.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010028_1",
@@ -5688,7 +5709,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010041_1",
@@ -5730,7 +5751,7 @@
     "lon_end": "",
     "distance_along": "600.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010065_1",
@@ -5751,7 +5772,7 @@
     "lon_end": "",
     "distance_along": "550.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010126_1",
@@ -5772,7 +5793,7 @@
     "lon_end": "",
     "distance_along": "260.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010189_1",
@@ -5793,7 +5814,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010211_1",
@@ -5814,7 +5835,7 @@
     "lon_end": "",
     "distance_along": "600.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010260_1",
@@ -5835,7 +5856,7 @@
     "lon_end": "",
     "distance_along": "69.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010313_1",
@@ -5856,7 +5877,7 @@
     "lon_end": "",
     "distance_along": "807.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010332_1",
@@ -5877,7 +5898,7 @@
     "lon_end": "",
     "distance_along": "9.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010399_1",
@@ -5919,7 +5940,7 @@
     "lon_end": "",
     "distance_along": "445.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010436_1",
@@ -5940,7 +5961,7 @@
     "lon_end": "",
     "distance_along": "699.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010466_1",
@@ -5961,7 +5982,7 @@
     "lon_end": "",
     "distance_along": "710.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010472_1",
@@ -5982,7 +6003,7 @@
     "lon_end": "",
     "distance_along": "900.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010482_1",
@@ -6003,7 +6024,7 @@
     "lon_end": "",
     "distance_along": "235.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010483_1",
@@ -6024,7 +6045,7 @@
     "lon_end": "",
     "distance_along": "70.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010485_1",
@@ -6045,7 +6066,7 @@
     "lon_end": "",
     "distance_along": "700.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010487_1",
@@ -6066,7 +6087,7 @@
     "lon_end": "",
     "distance_along": "650.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010495_1",
@@ -6087,7 +6108,7 @@
     "lon_end": "",
     "distance_along": "203.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010496_1",
@@ -6108,7 +6129,7 @@
     "lon_end": "",
     "distance_along": "980.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010504_1",
@@ -6129,7 +6150,7 @@
     "lon_end": "",
     "distance_along": "620.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010535_1",
@@ -6150,7 +6171,7 @@
     "lon_end": "",
     "distance_along": "395.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010548_1",
@@ -6171,7 +6192,7 @@
     "lon_end": "",
     "distance_along": "263.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010572_1",
@@ -6192,7 +6213,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010573_1",
@@ -6213,7 +6234,7 @@
     "lon_end": "",
     "distance_along": "500.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010574_1",
@@ -6234,7 +6255,7 @@
     "lon_end": "",
     "distance_along": "450.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010648_1",
@@ -6255,7 +6276,7 @@
     "lon_end": "",
     "distance_along": "600.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010685_1",
@@ -6276,7 +6297,7 @@
     "lon_end": "",
     "distance_along": "858.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010713_1",
@@ -6297,7 +6318,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010780_1",
@@ -6318,7 +6339,7 @@
     "lon_end": "",
     "distance_along": "644.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010801_1",
@@ -6339,7 +6360,7 @@
     "lon_end": "",
     "distance_along": "390.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010812_1",
@@ -6360,7 +6381,7 @@
     "lon_end": "",
     "distance_along": "500.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010823_1",
@@ -6381,7 +6402,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010833_1",
@@ -6402,7 +6423,7 @@
     "lon_end": "",
     "distance_along": "200.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010843_1",
@@ -6423,7 +6444,7 @@
     "lon_end": "",
     "distance_along": "582.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010845_1",
@@ -6444,7 +6465,7 @@
     "lon_end": "",
     "distance_along": "176.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010847_1",
@@ -6465,7 +6486,7 @@
     "lon_end": "",
     "distance_along": "430.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010853_1",
@@ -6486,7 +6507,7 @@
     "lon_end": "",
     "distance_along": "305.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010856_1",
@@ -6507,7 +6528,7 @@
     "lon_end": "",
     "distance_along": "317.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010858_1",
@@ -6528,7 +6549,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010920_1",
@@ -6549,7 +6570,7 @@
     "lon_end": "",
     "distance_along": "10.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010942_1",
@@ -6570,7 +6591,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010943_1",
@@ -6591,7 +6612,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010969_1",
@@ -6612,7 +6633,7 @@
     "lon_end": "",
     "distance_along": "60.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010970_1",
@@ -6633,7 +6654,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010971_1",
@@ -6654,7 +6675,7 @@
     "lon_end": "",
     "distance_along": "735.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010973_1",
@@ -6675,7 +6696,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41010982_1",
@@ -6696,7 +6717,7 @@
     "lon_end": "",
     "distance_along": "50.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011012_1",
@@ -6717,7 +6738,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011013_1",
@@ -6738,7 +6759,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011014_1",
@@ -6759,7 +6780,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011015_1",
@@ -6780,7 +6801,7 @@
     "lon_end": "",
     "distance_along": "400.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011016_1",
@@ -6801,7 +6822,7 @@
     "lon_end": "",
     "distance_along": "800.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011019_1",
@@ -6822,7 +6843,7 @@
     "lon_end": "",
     "distance_along": "800.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011020_1",
@@ -6843,7 +6864,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011021_1",
@@ -6864,7 +6885,7 @@
     "lon_end": "",
     "distance_along": "514.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011022_1",
@@ -6885,7 +6906,7 @@
     "lon_end": "",
     "distance_along": "268.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011023_1",
@@ -6906,7 +6927,7 @@
     "lon_end": "",
     "distance_along": "500.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011024_1",
@@ -6927,7 +6948,7 @@
     "lon_end": "",
     "distance_along": "597.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011025_1",
@@ -6948,7 +6969,7 @@
     "lon_end": "",
     "distance_along": "995.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011030_1",
@@ -6969,7 +6990,7 @@
     "lon_end": "",
     "distance_along": "850.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011032_1",
@@ -6990,7 +7011,7 @@
     "lon_end": "",
     "distance_along": "850.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011033_1",
@@ -7011,7 +7032,7 @@
     "lon_end": "",
     "distance_along": "990.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011034_1",
@@ -7032,7 +7053,7 @@
     "lon_end": "",
     "distance_along": "970.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011035_1",
@@ -7053,7 +7074,7 @@
     "lon_end": "",
     "distance_along": "3.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011036_1",
@@ -7074,7 +7095,7 @@
     "lon_end": "",
     "distance_along": "394.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011037_1",
@@ -7095,7 +7116,7 @@
     "lon_end": "",
     "distance_along": "966.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011040_1",
@@ -7116,7 +7137,7 @@
     "lon_end": "",
     "distance_along": "980.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011041_1",
@@ -7137,7 +7158,7 @@
     "lon_end": "",
     "distance_along": "875.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011042_1",
@@ -7158,7 +7179,7 @@
     "lon_end": "",
     "distance_along": "681.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011043_1",
@@ -7179,7 +7200,7 @@
     "lon_end": "",
     "distance_along": "500.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011044_1",
@@ -7200,7 +7221,7 @@
     "lon_end": "",
     "distance_along": "800.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011045_1",
@@ -7221,7 +7242,7 @@
     "lon_end": "",
     "distance_along": "710.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011046_1",
@@ -7242,7 +7263,7 @@
     "lon_end": "",
     "distance_along": "80.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011047_1",
@@ -7263,7 +7284,7 @@
     "lon_end": "",
     "distance_along": "225.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011048_1",
@@ -7284,7 +7305,7 @@
     "lon_end": "",
     "distance_along": "925.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011049_1",
@@ -7305,7 +7326,7 @@
     "lon_end": "",
     "distance_along": "386.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011050_1",
@@ -7326,7 +7347,7 @@
     "lon_end": "",
     "distance_along": "529.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011051_1",
@@ -7347,7 +7368,7 @@
     "lon_end": "",
     "distance_along": "550.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_41011052_1",
@@ -7368,7 +7389,28 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
+  },
+  {
+    "situation_record_id": "hu_UTINFORM_41011055_1",
+    "rekord_id_rovid": "41011055_1",
+    "situation_id": "hu_UTINFORM_41011055",
+    "record_version": "1",
+    "xsi_type": "AuthorityOperation",
+    "situation_version_time": "2026-03-04 20:48:34",
+    "creation_time": "2026-03-04 20:48:34",
+    "version_time": "2026-03-04 20:48:34",
+    "overall_start": "2026-03-04 18:18:00",
+    "overall_end_tervezett": "2026-03-04 21:48:00",
+    "source_name": "Magyar Közút",
+    "road_number": "2102",
+    "lat_start": "47.603867",
+    "lon_start": "19.195568",
+    "lat_end": "",
+    "lon_end": "",
+    "distance_along": "50.0",
+    "capacity_remaining": "40.0",
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4558378_1",
@@ -7389,7 +7431,7 @@
     "lon_end": "",
     "distance_along": "796.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4558406_1",
@@ -7410,7 +7452,7 @@
     "lon_end": "",
     "distance_along": "612.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4558592_1",
@@ -7473,7 +7515,7 @@
     "lon_end": "",
     "distance_along": "930.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4558604_1",
@@ -7536,7 +7578,7 @@
     "lon_end": "",
     "distance_along": "990.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4558646_1",
@@ -7725,7 +7767,7 @@
     "lon_end": "",
     "distance_along": "900.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4558794_1",
@@ -7746,7 +7788,7 @@
     "lon_end": "",
     "distance_along": "950.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4558798_1",
@@ -7767,7 +7809,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4558804_1",
@@ -7788,7 +7830,7 @@
     "lon_end": "",
     "distance_along": "392.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4558891_1",
@@ -7809,7 +7851,7 @@
     "lon_end": "",
     "distance_along": "300.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4558894_1",
@@ -7830,7 +7872,7 @@
     "lon_end": "",
     "distance_along": "279.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4559004_3",
@@ -7851,7 +7893,7 @@
     "lon_end": "",
     "distance_along": "338.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4559633_1",
@@ -7893,7 +7935,7 @@
     "lon_end": "",
     "distance_along": "480.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4560828_1",
@@ -7914,7 +7956,7 @@
     "lon_end": "",
     "distance_along": "275.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4581318_1",
@@ -7935,7 +7977,7 @@
     "lon_end": "",
     "distance_along": "372.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4584205_1",
@@ -7956,7 +7998,7 @@
     "lon_end": "",
     "distance_along": "282.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4584230_1",
@@ -7977,7 +8019,7 @@
     "lon_end": "",
     "distance_along": "829.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4585502_1",
@@ -7998,7 +8040,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4591323_1",
@@ -8019,7 +8061,7 @@
     "lon_end": "",
     "distance_along": "1251.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4592169_1",
@@ -8040,7 +8082,7 @@
     "lon_end": "",
     "distance_along": "125.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4602771_1",
@@ -8061,7 +8103,7 @@
     "lon_end": "",
     "distance_along": "253.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4627234_1",
@@ -8103,7 +8145,7 @@
     "lon_end": "",
     "distance_along": "400.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4689611_1",
@@ -8124,7 +8166,7 @@
     "lon_end": "",
     "distance_along": "400.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4693815_1",
@@ -8145,7 +8187,7 @@
     "lon_end": "",
     "distance_along": "553.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4700883_1",
@@ -8166,7 +8208,7 @@
     "lon_end": "",
     "distance_along": "816.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4704495_1",
@@ -8187,7 +8229,7 @@
     "lon_end": "",
     "distance_along": "806.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4704496_1",
@@ -8208,7 +8250,7 @@
     "lon_end": "",
     "distance_along": "339.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4726124_1",
@@ -8229,7 +8271,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4744119_4",
@@ -8271,7 +8313,7 @@
     "lon_end": "",
     "distance_along": "998.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4814256_1",
@@ -8292,7 +8334,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4837643_1",
@@ -8313,7 +8355,7 @@
     "lon_end": "",
     "distance_along": "560.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4845227_1",
@@ -8334,7 +8376,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4845229_1",
@@ -8355,7 +8397,7 @@
     "lon_end": "",
     "distance_along": "10.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4845230_1",
@@ -8376,7 +8418,7 @@
     "lon_end": "",
     "distance_along": "10.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4847657_1",
@@ -8397,7 +8439,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4847662_1",
@@ -8418,7 +8460,7 @@
     "lon_end": "",
     "distance_along": "20.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4847666_1",
@@ -8439,7 +8481,7 @@
     "lon_end": "",
     "distance_along": "20.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4853689_1",
@@ -8460,7 +8502,7 @@
     "lon_end": "",
     "distance_along": "605.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4865817_1",
@@ -8481,7 +8523,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4866488_4",
@@ -8502,7 +8544,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4871557_1",
@@ -8523,7 +8565,7 @@
     "lon_end": "",
     "distance_along": "500.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4871560_1",
@@ -8544,7 +8586,7 @@
     "lon_end": "",
     "distance_along": "550.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4878069_1",
@@ -8565,7 +8607,7 @@
     "lon_end": "",
     "distance_along": "800.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4879448_1",
@@ -8607,7 +8649,7 @@
     "lon_end": "",
     "distance_along": "325.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4897410_1",
@@ -8628,7 +8670,7 @@
     "lon_end": "",
     "distance_along": "119.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4908994_1",
@@ -8649,7 +8691,7 @@
     "lon_end": "",
     "distance_along": "910.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4915077_1",
@@ -8670,7 +8712,7 @@
     "lon_end": "",
     "distance_along": "970.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4921518_1",
@@ -8691,7 +8733,7 @@
     "lon_end": "",
     "distance_along": "240.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4930402_1",
@@ -8733,7 +8775,7 @@
     "lon_end": "",
     "distance_along": "770.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4939759_2",
@@ -8754,7 +8796,7 @@
     "lon_end": "",
     "distance_along": "125.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4945194_1",
@@ -8775,7 +8817,7 @@
     "lon_end": "",
     "distance_along": "676.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4948882_1",
@@ -8796,7 +8838,7 @@
     "lon_end": "",
     "distance_along": "1200.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4948883_1",
@@ -8817,7 +8859,7 @@
     "lon_end": "",
     "distance_along": "200.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4950785_1",
@@ -8838,7 +8880,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4950789_1",
@@ -8859,7 +8901,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4954659_1",
@@ -8880,7 +8922,7 @@
     "lon_end": "",
     "distance_along": "50.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4963830_1",
@@ -8901,7 +8943,7 @@
     "lon_end": "",
     "distance_along": "958.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4963831_1",
@@ -8922,7 +8964,7 @@
     "lon_end": "",
     "distance_along": "727.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4965598_1",
@@ -8943,7 +8985,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4966414_1",
@@ -8964,7 +9006,7 @@
     "lon_end": "",
     "distance_along": "1030.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4967652_1",
@@ -8985,7 +9027,7 @@
     "lon_end": "",
     "distance_along": "435.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4967654_1",
@@ -9006,7 +9048,7 @@
     "lon_end": "",
     "distance_along": "400.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4968372_1",
@@ -9027,7 +9069,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4968482_1",
@@ -9048,7 +9090,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4968484_1",
@@ -9069,7 +9111,7 @@
     "lon_end": "",
     "distance_along": "700.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4968488_1",
@@ -9090,7 +9132,7 @@
     "lon_end": "",
     "distance_along": "915.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4968489_1",
@@ -9111,7 +9153,7 @@
     "lon_end": "",
     "distance_along": "915.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4968842_1",
@@ -9132,7 +9174,7 @@
     "lon_end": "",
     "distance_along": "170.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4969074_1",
@@ -9153,7 +9195,7 @@
     "lon_end": "",
     "distance_along": "990.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4969615_1",
@@ -9174,7 +9216,7 @@
     "lon_end": "",
     "distance_along": "800.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4969754_1",
@@ -9195,7 +9237,7 @@
     "lon_end": "",
     "distance_along": "85.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4971689_1",
@@ -9216,7 +9258,7 @@
     "lon_end": "",
     "distance_along": "230.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4972165_1",
@@ -9237,7 +9279,7 @@
     "lon_end": "",
     "distance_along": "660.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4972167_1",
@@ -9258,7 +9300,7 @@
     "lon_end": "",
     "distance_along": "560.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4972169_1",
@@ -9279,7 +9321,7 @@
     "lon_end": "",
     "distance_along": "65.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4972171_1",
@@ -9300,7 +9342,7 @@
     "lon_end": "",
     "distance_along": "700.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4972172_1",
@@ -9321,7 +9363,7 @@
     "lon_end": "",
     "distance_along": "370.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4972174_1",
@@ -9342,7 +9384,7 @@
     "lon_end": "",
     "distance_along": "255.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4972175_1",
@@ -9363,7 +9405,7 @@
     "lon_end": "",
     "distance_along": "380.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4972687_1",
@@ -9384,7 +9426,7 @@
     "lon_end": "",
     "distance_along": "760.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4973315_1",
@@ -9426,7 +9468,7 @@
     "lon_end": "",
     "distance_along": "548.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4975339_1",
@@ -9447,7 +9489,7 @@
     "lon_end": "",
     "distance_along": "85.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4975342_1",
@@ -9468,7 +9510,7 @@
     "lon_end": "",
     "distance_along": "800.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4975712_1",
@@ -9489,7 +9531,7 @@
     "lon_end": "",
     "distance_along": "829.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4976646_1",
@@ -9510,7 +9552,7 @@
     "lon_end": "",
     "distance_along": "824.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4976647_1",
@@ -9531,7 +9573,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4976648_1",
@@ -9552,7 +9594,7 @@
     "lon_end": "",
     "distance_along": "916.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4977084_1",
@@ -9573,7 +9615,7 @@
     "lon_end": "",
     "distance_along": "400.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4977528_1",
@@ -9594,7 +9636,7 @@
     "lon_end": "",
     "distance_along": "350.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4978212_1",
@@ -9636,7 +9678,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4979203_1",
@@ -9657,7 +9699,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4981463_1",
@@ -9699,7 +9741,7 @@
     "lon_end": "",
     "distance_along": "50.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4982108_1",
@@ -9720,7 +9762,7 @@
     "lon_end": "",
     "distance_along": "225.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4982110_1",
@@ -9741,7 +9783,7 @@
     "lon_end": "",
     "distance_along": "675.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4983270_1",
@@ -9762,7 +9804,7 @@
     "lon_end": "",
     "distance_along": "193.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4983331_1",
@@ -9783,7 +9825,7 @@
     "lon_end": "",
     "distance_along": "35.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4983764_1",
@@ -9804,7 +9846,7 @@
     "lon_end": "",
     "distance_along": "704.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4984078_1",
@@ -9825,7 +9867,7 @@
     "lon_end": "",
     "distance_along": "723.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4984807_1",
@@ -9846,7 +9888,7 @@
     "lon_end": "",
     "distance_along": "475.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4984870_1",
@@ -9867,7 +9909,7 @@
     "lon_end": "",
     "distance_along": "1600.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4985034_1",
@@ -9888,7 +9930,7 @@
     "lon_end": "",
     "distance_along": "900.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4985653_1",
@@ -9909,7 +9951,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4986214_1",
@@ -9930,7 +9972,7 @@
     "lon_end": "",
     "distance_along": "900.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4986415_1",
@@ -9972,7 +10014,7 @@
     "lon_end": "",
     "distance_along": "546.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4988894_1",
@@ -9993,7 +10035,7 @@
     "lon_end": "",
     "distance_along": "555.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4988895_1",
@@ -10014,7 +10056,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4988898_1",
@@ -10035,7 +10077,7 @@
     "lon_end": "",
     "distance_along": "761.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4988900_1",
@@ -10056,7 +10098,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4988904_1",
@@ -10077,7 +10119,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4988909_1",
@@ -10098,7 +10140,7 @@
     "lon_end": "",
     "distance_along": "327.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4989011_1",
@@ -10119,7 +10161,7 @@
     "lon_end": "",
     "distance_along": "639.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4989635_1",
@@ -10140,7 +10182,7 @@
     "lon_end": "",
     "distance_along": "750.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4989650_1",
@@ -10161,7 +10203,7 @@
     "lon_end": "",
     "distance_along": "700.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4989654_1",
@@ -10182,7 +10224,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4989981_1",
@@ -10203,7 +10245,7 @@
     "lon_end": "",
     "distance_along": "185.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4990156_1",
@@ -10224,7 +10266,7 @@
     "lon_end": "",
     "distance_along": "561.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4990157_1",
@@ -10245,7 +10287,7 @@
     "lon_end": "",
     "distance_along": "164.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4990163_1",
@@ -10266,7 +10308,7 @@
     "lon_end": "",
     "distance_along": "895.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4990164_1",
@@ -10287,7 +10329,7 @@
     "lon_end": "",
     "distance_along": "180.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4990172_1",
@@ -10308,7 +10350,7 @@
     "lon_end": "",
     "distance_along": "12.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4990533_1",
@@ -10329,7 +10371,7 @@
     "lon_end": "",
     "distance_along": "396.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4990592_1",
@@ -10350,7 +10392,7 @@
     "lon_end": "",
     "distance_along": "216.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4990593_1",
@@ -10371,7 +10413,7 @@
     "lon_end": "",
     "distance_along": "393.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4990598_1",
@@ -10392,7 +10434,7 @@
     "lon_end": "",
     "distance_along": "891.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4990600_1",
@@ -10413,7 +10455,7 @@
     "lon_end": "",
     "distance_along": "347.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4990601_1",
@@ -10434,7 +10476,7 @@
     "lon_end": "",
     "distance_along": "216.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4994484_1",
@@ -10455,7 +10497,7 @@
     "lon_end": "",
     "distance_along": "337.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4995397_1",
@@ -10476,7 +10518,7 @@
     "lon_end": "",
     "distance_along": "790.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4995400_1",
@@ -10539,7 +10581,7 @@
     "lon_end": "",
     "distance_along": "370.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4995744_1",
@@ -10560,7 +10602,7 @@
     "lon_end": "",
     "distance_along": "986.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4996423_1",
@@ -10581,7 +10623,7 @@
     "lon_end": "",
     "distance_along": "770.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4996548_1",
@@ -10602,7 +10644,7 @@
     "lon_end": "",
     "distance_along": "300.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4997130_1",
@@ -10623,7 +10665,7 @@
     "lon_end": "",
     "distance_along": "770.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4997286_1",
@@ -10644,7 +10686,7 @@
     "lon_end": "",
     "distance_along": "900.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4997555_1",
@@ -10665,7 +10707,7 @@
     "lon_end": "",
     "distance_along": "716.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4997558_1",
@@ -10686,7 +10728,7 @@
     "lon_end": "",
     "distance_along": "200.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4997568_1",
@@ -10707,7 +10749,7 @@
     "lon_end": "",
     "distance_along": "300.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4997645_1",
@@ -10728,7 +10770,7 @@
     "lon_end": "",
     "distance_along": "550.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4997669_1",
@@ -10749,7 +10791,7 @@
     "lon_end": "",
     "distance_along": "100.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998198_1",
@@ -10770,7 +10812,7 @@
     "lon_end": "",
     "distance_along": "990.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998357_1",
@@ -10791,7 +10833,7 @@
     "lon_end": "",
     "distance_along": "681.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998361_1",
@@ -10812,7 +10854,7 @@
     "lon_end": "",
     "distance_along": "644.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998517_1",
@@ -10833,7 +10875,7 @@
     "lon_end": "",
     "distance_along": "906.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998519_1",
@@ -10854,7 +10896,7 @@
     "lon_end": "",
     "distance_along": "990.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998553_1",
@@ -10875,7 +10917,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998854_1",
@@ -10896,7 +10938,7 @@
     "lon_end": "",
     "distance_along": "335.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998856_1",
@@ -10917,7 +10959,7 @@
     "lon_end": "",
     "distance_along": "255.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998893_1",
@@ -10938,7 +10980,7 @@
     "lon_end": "",
     "distance_along": "430.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998898_1",
@@ -10959,7 +11001,7 @@
     "lon_end": "",
     "distance_along": "320.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998900_1",
@@ -10980,7 +11022,7 @@
     "lon_end": "",
     "distance_along": "485.0",
     "capacity_remaining": "50.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998902_1",
@@ -11001,7 +11043,7 @@
     "lon_end": "",
     "distance_along": "320.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998904_1",
@@ -11022,7 +11064,7 @@
     "lon_end": "",
     "distance_along": "10.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998908_1",
@@ -11043,7 +11085,7 @@
     "lon_end": "",
     "distance_along": "385.0",
     "capacity_remaining": "100.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998925_1",
@@ -11064,7 +11106,7 @@
     "lon_end": "",
     "distance_along": "430.0",
     "capacity_remaining": "40.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4998973_1",
@@ -11085,7 +11127,7 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4999286_1",
@@ -11106,7 +11148,7 @@
     "lon_end": "",
     "distance_along": "147.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4999289_1",
@@ -11127,7 +11169,7 @@
     "lon_end": "",
     "distance_along": "100.0",
     "capacity_remaining": "75.0",
-    "comment": null
+    "comment": ""
   },
   {
     "situation_record_id": "hu_UTINFORM_4999578_1",
@@ -11148,6 +11190,6 @@
     "lon_end": "",
     "distance_along": "0.0",
     "capacity_remaining": "0.0",
-    "comment": null
+    "comment": ""
   }
 ]
