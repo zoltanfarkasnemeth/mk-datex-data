@@ -7350,27 +7350,6 @@
     "comment": ""
   },
   {
-    "situation_record_id": "hu_UTINFORM_41012008_1",
-    "rekord_id_rovid": "41012008_1",
-    "situation_id": "hu_UTINFORM_41012008",
-    "record_version": "1",
-    "xsi_type": "MaintenanceWorks",
-    "situation_version_time": "2026-03-07 07:42:58",
-    "creation_time": "2026-03-07 07:42:58",
-    "version_time": "2026-03-07 07:42:58",
-    "overall_start": "2026-03-07 07:40:00",
-    "overall_end_tervezett": "2026-03-07 18:45:00",
-    "source_name": "Magyar Közút",
-    "road_number": "M35",
-    "lat_start": "47.75713",
-    "lon_start": "21.317232",
-    "lat_end": "",
-    "lon_end": "",
-    "distance_along": "500.0",
-    "capacity_remaining": "100.0",
-    "comment": ""
-  },
-  {
     "situation_record_id": "hu_UTINFORM_41012029_1",
     "rekord_id_rovid": "41012029_1",
     "situation_id": "hu_UTINFORM_41012029",
