@@ -9723,6 +9723,27 @@
     "comment": ""
   },
   {
+    "situation_record_id": "hu_UTINFORM_41014811_1",
+    "rekord_id_rovid": "41014811_1",
+    "situation_id": "hu_UTINFORM_41014811",
+    "record_version": "2",
+    "xsi_type": "AbnormalTraffic",
+    "situation_version_time": "2026-03-15 22:42:14",
+    "creation_time": "2026-03-15 22:35:33",
+    "version_time": "2026-03-15 22:42:14",
+    "overall_start": "2026-03-15 22:30:00",
+    "overall_end_tervezett": "2026-03-16 00:00:00",
+    "source_name": "Magyar Közút",
+    "road_number": "M43",
+    "lat_start": "46.274464",
+    "lon_start": "20.44673",
+    "lat_end": "",
+    "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "50.0",
+    "comment": ""
+  },
+  {
     "situation_record_id": "hu_UTINFORM_4558378_1",
     "rekord_id_rovid": "4558378_1",
     "situation_id": "hu_UTINFORM_4558378",
