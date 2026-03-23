@@ -13104,6 +13104,27 @@
     "comment": "Jelzőtáblák bevonása"
   },
   {
+    "situation_record_id": "hu_UTINFORM_41018131_1",
+    "rekord_id_rovid": "41018131_1",
+    "situation_id": "hu_UTINFORM_41018131",
+    "record_version": "1",
+    "xsi_type": "MaintenanceWorks",
+    "situation_version_time": "2026-03-23 23:41:19",
+    "creation_time": "2026-03-23 23:41:19",
+    "version_time": "2026-03-23 23:41:19",
+    "overall_start": "2026-03-24 08:30:00",
+    "overall_end_tervezett": "2026-03-24 14:50:00",
+    "source_name": "Magyar Közút",
+    "road_number": "21125",
+    "lat_start": "47.89312",
+    "lon_start": "19.211954",
+    "lat_end": "",
+    "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "75.0",
+    "comment": ""
+  },
+  {
     "situation_record_id": "hu_UTINFORM_4558378_1",
     "rekord_id_rovid": "4558378_1",
     "situation_id": "hu_UTINFORM_4558378",
