@@ -1407,27 +1407,6 @@
     "comment": ""
   },
   {
-    "situation_record_id": "hu_UTINFORM_41025169_1",
-    "rekord_id_rovid": "41025169_1",
-    "situation_id": "hu_UTINFORM_41025169",
-    "record_version": "1",
-    "xsi_type": "PublicEvent",
-    "situation_version_time": "2026-04-10 13:09:06",
-    "creation_time": "2026-04-10 13:09:06",
-    "version_time": "2026-04-10 13:09:06",
-    "overall_start": "2026-04-24 18:00:00",
-    "overall_end_tervezett": "2026-04-26 03:00:00",
-    "source_name": "Magyar Közút",
-    "road_number": "4601",
-    "lat_start": "47.03392",
-    "lon_start": "19.778093",
-    "lat_end": "",
-    "lon_end": "",
-    "distance_along": "315.0",
-    "capacity_remaining": "0.0",
-    "comment": ""
-  },
-  {
     "situation_record_id": "hu_UTINFORM_41025193_1",
     "rekord_id_rovid": "41025193_1",
     "situation_id": "hu_UTINFORM_41025193",
