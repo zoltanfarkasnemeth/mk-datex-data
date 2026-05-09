@@ -2520,27 +2520,6 @@
     "comment": ""
   },
   {
-    "situation_record_id": "hu_UTINFORM_41039555_1",
-    "rekord_id_rovid": "41039555_1",
-    "situation_id": "hu_UTINFORM_41039555",
-    "record_version": "2",
-    "xsi_type": "AuthorityOperation",
-    "situation_version_time": "2026-05-09 18:42:55",
-    "creation_time": "2026-05-09 17:38:33",
-    "version_time": "2026-05-09 18:42:55",
-    "overall_start": "2026-05-09 17:05:00",
-    "overall_end_tervezett": "2026-05-09 19:55:00",
-    "source_name": "Magyar Közút",
-    "road_number": "21113",
-    "lat_start": "47.746983",
-    "lon_start": "19.209555",
-    "lat_end": "",
-    "lon_end": "",
-    "distance_along": "890.0",
-    "capacity_remaining": "40.0",
-    "comment": ""
-  },
-  {
     "situation_record_id": "hu_UTINFORM_4853689_1",
     "rekord_id_rovid": "4853689_1",
     "situation_id": "hu_UTINFORM_4853689",
