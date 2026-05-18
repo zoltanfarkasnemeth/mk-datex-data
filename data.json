@@ -1953,27 +1953,6 @@
     "comment": ""
   },
   {
-    "situation_record_id": "hu_UTINFORM_41042072_1",
-    "rekord_id_rovid": "41042072_1",
-    "situation_id": "hu_UTINFORM_41042072",
-    "record_version": "1",
-    "xsi_type": "ConstructionWorks",
-    "situation_version_time": "2026-05-13 15:12:07",
-    "creation_time": "2026-05-13 15:12:07",
-    "version_time": "2026-05-13 15:12:07",
-    "overall_start": "2026-05-16 03:00:00",
-    "overall_end_tervezett": "2026-05-18 03:00:00",
-    "source_name": "Magyar Közút",
-    "road_number": "1112",
-    "lat_start": "47.646942",
-    "lon_start": "19.03238",
-    "lat_end": "",
-    "lon_end": "",
-    "distance_along": "778.0",
-    "capacity_remaining": "0.0",
-    "comment": ""
-  },
-  {
     "situation_record_id": "hu_UTINFORM_41042073_1",
     "rekord_id_rovid": "41042073_1",
     "situation_id": "hu_UTINFORM_41042073",
