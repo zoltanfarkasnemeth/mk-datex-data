@@ -126,27 +126,6 @@
     "comment": ""
   },
   {
-    "situation_record_id": "hu_UTINFORM_3136279_1",
-    "rekord_id_rovid": "3136279_1",
-    "situation_id": "hu_UTINFORM_3136279",
-    "record_version": "4",
-    "xsi_type": "Accident",
-    "situation_version_time": "2026-05-25 22:29:59",
-    "creation_time": "2026-05-25 21:56:07",
-    "version_time": "2026-05-25 22:29:59",
-    "overall_start": "2026-05-25 21:50:00",
-    "overall_end_tervezett": "",
-    "source_name": "Magyar Közút",
-    "road_number": "M0",
-    "lat_start": "47.359318",
-    "lon_start": "19.216131",
-    "lat_end": "",
-    "lon_end": "",
-    "distance_along": "500.0",
-    "capacity_remaining": "100.0",
-    "comment": ""
-  },
-  {
     "situation_record_id": "hu_UTINFORM_41002478_1",
     "rekord_id_rovid": "41002478_1",
     "situation_id": "hu_UTINFORM_41002478",
