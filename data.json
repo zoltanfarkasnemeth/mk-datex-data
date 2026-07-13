@@ -2541,6 +2541,27 @@
     "comment": ""
   },
   {
+    "situation_record_id": "hu_UTINFORM_41072861_1",
+    "rekord_id_rovid": "41072861_1",
+    "situation_id": "hu_UTINFORM_41072861",
+    "record_version": "1",
+    "xsi_type": "MaintenanceWorks",
+    "situation_version_time": "2026-07-13 06:40:31",
+    "creation_time": "2026-07-13 06:40:31",
+    "version_time": "2026-07-13 06:40:31",
+    "overall_start": "2026-07-13 08:00:00",
+    "overall_end_tervezett": "2026-07-14 14:30:00",
+    "source_name": "Magyar Közút",
+    "road_number": "441",
+    "lat_start": "47.083057",
+    "lon_start": "19.780909",
+    "lat_end": "",
+    "lon_end": "",
+    "distance_along": "0.0",
+    "capacity_remaining": "40.0",
+    "comment": ""
+  },
+  {
     "situation_record_id": "hu_UTINFORM_4871557_1",
     "rekord_id_rovid": "4871557_1",
     "situation_id": "hu_UTINFORM_4871557",
