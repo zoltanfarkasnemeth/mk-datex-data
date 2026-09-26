@@ -2184,6 +2184,27 @@
     "comment": ""
   },
   {
+    "situation_record_id": "hu_UTINFORM_41109812_1",
+    "rekord_id_rovid": "41109812_1",
+    "situation_id": "hu_UTINFORM_41109812",
+    "record_version": "2",
+    "xsi_type": "VehicleObstruction",
+    "situation_version_time": "2026-09-26 22:31:53",
+    "creation_time": "2026-09-26 22:28:29",
+    "version_time": "2026-09-26 22:31:53",
+    "overall_start": "2026-09-26 22:00:00",
+    "overall_end_tervezett": "2026-09-27 22:27:00",
+    "source_name": "Magyar Közút",
+    "road_number": "M1",
+    "lat_start": "47.459164",
+    "lon_start": "18.890303",
+    "lat_end": "",
+    "lon_end": "",
+    "distance_along": "725.0",
+    "capacity_remaining": "50.0",
+    "comment": ""
+  },
+  {
     "situation_record_id": "hu_UTINFORM_4871557_1",
     "rekord_id_rovid": "4871557_1",
     "situation_id": "hu_UTINFORM_4871557",
